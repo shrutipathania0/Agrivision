@@ -1,0 +1,192 @@
+[
+  {
+    "crop": "Tomato",
+    "disease": "Early Blight",
+    "pathogen": "Alternaria solani (Fungus)",
+    "regional_status": "Widely prevalent in Punjab and Haryana plains during both autumn and spring tomato seasons.",
+    "symptoms": "Dark brown to black necrotic spots with concentric rings, primarily originating on older bottom leaves. Foliage turns yellow around the lesions and drops prematurely, exposing fruit to sunscald. Stem collar rot may occur on young transplants.",
+    "favorable_conditions": "Warm temperatures (24°C to 30°C) with prolonged leaf wetness from frequent rain, overhead irrigation, or heavy dew.",
+    "prevention_practices": [
+      "Obtain certified disease-free transplants from reputable state nurseries or PAU/HAU.",
+      "Stake tomato vines and prune lower suckers to maintain distance between lower foliage and moist soil.",
+      "Use drip irrigation or furrow irrigation instead of overhead sprinklers.",
+      "Apply organic straw mulch around plant bases to prevent soil splashing onto foliage."
+    ],
+    "management_practices": [
+      "Remove and safely burn or bury infected bottom leaves during early scouting.",
+      "Spray Mancozeb 75 WP or Copper Oxychloride 50 WP as a protective shield at first disease detection.",
+      "Under high infection pressure, apply systemic fungicides (e.g., Tebuconazole or Azoxystrobin) following PAU vegetable spray recommendations.",
+      "Observe proper harvest safety intervals (waiting periods) post-spray."
+    ],
+    "safety_warning": "Wear protective gear during fungicide preparation and spraying. Wash hands and equipment thoroughly. Do not harvest fruit within recommended pre-harvest interval.",
+    "sources": [
+      {
+        "institution": "Punjab Agricultural University (PAU), Ludhiana",
+        "publication": "Package of Practices for Cultivation of Vegetables - Tomato Pathologies",
+        "url": "https://www.pau.edu"
+      },
+      {
+        "institution": "ICAR - Indian Institute of Vegetable Research (IIVR), Varanasi",
+        "publication": "Integrated Pest and Disease Management in Tomato",
+        "url": "https://iivr.icar.gov.in"
+      }
+    ]
+  },
+  {
+    "crop": "Tomato",
+    "disease": "Late Blight",
+    "pathogen": "Phytophthora infestans (Oomycete)",
+    "regional_status": "Highly destructive during cold, overcast, fog-prone periods in Punjab and Haryana (December to February).",
+    "symptoms": "Large, irregular, pale water-soaked spots developing rapidly on leaves and petioles. Lesions turn purplish-black with white cottony fungal growth on the underside during humid mornings. Fruits develop firm, greasy, dark brown sunken blotches.",
+    "favorable_conditions": "Cool temperatures (12°C to 20°C) combined with high humidity (>90%) and morning fogs.",
+    "prevention_practices": [
+      "Plant tolerant cultivars recommended by PAU (e.g., Punjab Upkar, Punjab Ratta).",
+      "Avoid planting tomato adjacent to infected potato fields as Phytophthora readily crosses between hosts.",
+      "Ensure wide row spacing for maximum sunlight penetration and air movement.",
+      "Monitor daily PAU/HAU agricultural meteorology advisories for blight alert notices."
+    ],
+    "management_practices": [
+      "Apply prophylactic protective spray of Mancozeb 75 WP when night temperatures drop and humidity rises.",
+      "At earliest symptom appearance, spray Cymoxanil 8% + Mancozeb 64% WP or Metalaxyl 8% + Mancozeb 64% WP.",
+      "Destroy and dispose of blighted fruits and vines immediately outside the cropping field.",
+      "Avoid excess irrigation during foggy spells."
+    ],
+    "safety_warning": "Handle chemical concentrates with rubber gloves and eye protection. Prevent spray drift to nearby water bodies and residential areas.",
+    "sources": [
+      {
+        "institution": "Punjab Agricultural University (PAU), Ludhiana",
+        "publication": "PAU Agricultural Advisory: Late Blight Warning in Solanaceous Crops",
+        "url": "https://www.pau.edu"
+      },
+      {
+        "institution": "CCS Haryana Agricultural University (HAU), Hisar",
+        "publication": "Vegetable Protection Bulletins - Tomato Late Blight Control",
+        "url": "https://www.hau.ac.in"
+      }
+    ]
+  },
+  {
+    "crop": "Tomato",
+    "disease": "Septoria Leaf Spot",
+    "pathogen": "Septoria lycopersici (Fungus)",
+    "regional_status": "Commonly encountered during warm, wet monsoon or spring periods in North Indian plains.",
+    "symptoms": "Numerous small, circular spots (1.5 to 3 mm diameter) with dark brown margins and sunken grayish-white centers dotted with tiny black fruiting bodies (pycnidia). Begins on oldest leaves and progresses upward, leading to complete skeletonization.",
+    "favorable_conditions": "Moderate temperatures (20°C to 25°C) with persistent high humidity and rainy splash dispersal.",
+    "prevention_practices": [
+      "Eliminate solanaceous weeds (e.g., Solanum nigrum) around field borders.",
+      "Use clean seed and practice hot-water or fungicide seed treatment.",
+      "Mulch beds to eliminate rain splash from soil onto lower foliage."
+    ],
+    "management_practices": [
+      "Rogue out severely infected lower foliage before pycnidia mature.",
+      "Apply protective fungicides like Chlorothalonil 75 WP or Mancozeb 75 WP at 7-10 day intervals.",
+      "Ensure proper crop rotation with cereals or legumes."
+    ],
+    "safety_warning": "Wear protective coveralls and respirators during application. Follow recommended label dilutions.",
+    "sources": [
+      {
+        "institution": "ICAR - Indian Agricultural Research Institute (IARI), New Delhi",
+        "publication": "Fungal Foliar Diseases of Solanaceous Vegetables",
+        "url": "https://www.iari.res.in"
+      }
+    ]
+  },
+  {
+    "crop": "Tomato",
+    "disease": "Leaf Mold",
+    "pathogen": "Passalora fulva / Cladosporium fulvum (Fungus)",
+    "regional_status": "Frequent in polyhouse/net-house tomato cultivations and humid sheltered fields in Punjab.",
+    "symptoms": "Pale green or yellowish chlorotic patches on the upper leaf surface without sharp margins. Directly underneath on the lower surface, olive-green to velvety brown mold growth develops.",
+    "favorable_conditions": "High relative humidity (>85%) and moderate temperatures (20°C to 25°C) with poor air ventilation.",
+    "prevention_practices": [
+      "Enhance greenhouse ventilation and increase plant spacing.",
+      "Avoid wetting leaves during evening irrigations.",
+      "Grow resistant hybrids selected for greenhouse cultivation."
+    ],
+    "management_practices": [
+      "Prune dense canopy foliage to reduce inner humidity.",
+      "Apply Copper Oxychloride 50 WP or Difenoconazole 25 EC as advised by agricultural extension specialists."
+    ],
+    "safety_warning": "Maintain well-ventilated conditions while applying protective sprays inside polyhouses.",
+    "sources": [
+      {
+        "institution": "Punjab Agricultural University (PAU), Ludhiana",
+        "publication": "Protected Cultivation of Tomato: Disease Diagnostics",
+        "url": "https://www.pau.edu"
+      }
+    ]
+  },
+  {
+    "crop": "Tomato",
+    "disease": "Bacterial Spot",
+    "pathogen": "Xanthomonas vesicatoria / Xanthomonas spp. (Bacteria)",
+    "regional_status": "Severe during monsoon and post-monsoon humid cycles in Punjab and Haryana.",
+    "symptoms": "Small, angular, greasy, dark brown to black water-soaked lesions on leaves, often surrounded by yellow halos. Lesions dry up and tear, giving a ragged appearance. Raised, scabby, rough pustules form on green fruits.",
+    "favorable_conditions": "Warm temperatures (25°C to 30°C) with driving rains, overhead irrigation, and high wind-driven aerosols.",
+    "prevention_practices": [
+      "Soak seeds in hot water (50°C for 25 min) or treat with Streptocycline solution prior to nursery sowing.",
+      "Avoid handling or weeding wet foliage to prevent mechanical bacterial transmission.",
+      "Disinfect nursery trays and tools with 1% sodium hypochlorite."
+    ],
+    "management_practices": [
+      "Spray copper hydroxide or copper oxychloride combined with bactericide (Streptocycline / Streptomycin sulphate) at recommended state dosages.",
+      "Immediately rogue out early seedling infections in nursery beds."
+    ],
+    "safety_warning": "Handle bactericides responsibly. Avoid inhaling chemical mist. Observe strict pre-harvest intervals.",
+    "sources": [
+      {
+        "institution": "CCS Haryana Agricultural University (HAU), Hisar",
+        "publication": "Bacterial Pathogens of Vegetable Crops in Haryana",
+        "url": "https://www.hau.ac.in"
+      }
+    ]
+  },
+  {
+    "crop": "Tomato",
+    "disease": "Tomato Mosaic Virus",
+    "pathogen": "Tomato Mosaic Virus - ToMV (Viral)",
+    "regional_status": "Prevalent in intensively cropped tomato belts across Northern India.",
+    "symptoms": "Mottling with alternating light green and dark green patches on leaves. Severe leaf puckering, distortion, 'shoestring' or 'fern-leaf' malformations, and stunted plant growth.",
+    "favorable_conditions": "Transmitted easily through mechanical contact, contaminated tools, workers' hands, and infected seed.",
+    "prevention_practices": [
+      "Use certified virus-free seed from verified institutional sources.",
+      "Wash hands and tools with 10% trisodium phosphate (TSP) or skim milk solution before handling seedlings.",
+      "Workers who consume or handle tobacco must wash hands thoroughly before touching tomato crops."
+    ],
+    "management_practices": [
+      "Rogue out and destroy infected viral plants immediately upon symptom detection to prevent mechanical spread.",
+      "Control insect vectors (thrips and aphids) using yellow sticky traps and state-recommended botanical/biocontrol agents."
+    ],
+    "safety_warning": "No chemical viricide cures viral infections. Focus strictly on sanitation, vector suppression, and rogueing.",
+    "sources": [
+      {
+        "institution": "ICAR - Indian Institute of Vegetable Research (IIVR)",
+        "publication": "Viral Diseases of Tomato and Their Integrated Management",
+        "url": "https://iivr.icar.gov.in"
+      }
+    ]
+  },
+  {
+    "crop": "Tomato",
+    "disease": "Healthy",
+    "pathogen": "None (Healthy Crop)",
+    "regional_status": "Standard healthy vegetative or flowering state.",
+    "symptoms": "Crisp green foliage, sturdy stems, active terminal growth, absence of necrotic spots, chlorotic mosaics, or wilting.",
+    "favorable_conditions": "Optimal sunshine, balanced fertilization (NPK + micronutrients like Boron and Calcium), regulated drip irrigation.",
+    "prevention_practices": [
+      "Maintain consistent irrigation to avoid calcium deficiency blossom-end rot.",
+      "Inspect leaf undersides weekly for early sucking insect pests."
+    ],
+    "management_practices": [
+      "Continue standard agronomic practices and timely fertigation."
+    ],
+    "safety_warning": "Follow standard safe farm machinery and hand tool operations.",
+    "sources": [
+      {
+        "institution": "Punjab Agricultural University (PAU), Ludhiana",
+        "publication": "Tomato Cultivation Handbook",
+        "url": "https://www.pau.edu"
+      }
+    ]
+  }
+]

@@ -1,0 +1,19 @@
+﻿# Python environments and generated files
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+# Frontend dependencies and generated build output
+frontend/node_modules/
+frontend/dist/
+
+# Local editor files
+.vscode/
+
+# Large training datasets (download separately)
+datasets/
+
+# Exceeds GitHub's 100 MB per-file limit; obtain separately
+models/nlp/distilbert_intent_classifier/model.safetensors

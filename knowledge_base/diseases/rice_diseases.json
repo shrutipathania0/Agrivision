@@ -1,0 +1,115 @@
+[
+  {
+    "crop": "Rice",
+    "disease": "Bacterial Leaf Blight",
+    "pathogen": "Xanthomonas oryzae pv. oryzae (Bacteria)",
+    "regional_status": "Severe endemic threat in Punjab and Haryana paddy tracts, particularly during heavy monsoon rains and high humidity.",
+    "symptoms": "Water-soaked translucent stripes appearing along the margins of leaf blades that quickly turn yellow to bleached white with wavy margins. Milky or opaque bacterial ooze droplets form on young lesions in early morning dew, drying into amber crusts. Severe infection causes 'Kresek' (seedling wilt).",
+    "favorable_conditions": "High temperature (25°C to 34°C), relative humidity >70%, strong winds and flooding rains that create leaf abrasions.",
+    "prevention_practices": [
+      "Grow resistant or tolerant Basmati and non-Basmati cultivars released by PAU (e.g., PR 126, PR 121, PAU 201).",
+      "Avoid excess nitrogen application; split nitrogen into three balanced doses.",
+      "Ensure proper field drainage; do not allow irrigation water to flow directly from an infected field into a healthy field.",
+      "Clip seedlings only if necessary, and disinfect shears."
+    ],
+    "management_practices": [
+      "Drain the field for 2-3 days when bacterial blight lesions appear to arrest bacterial spread.",
+      "Refrain from top-dressing urea or nitrogen fertilizers until disease progression halts.",
+      "Spray Streptocycline (bactericide) mixed with Copper Oxychloride 50 WP as recommended by PAU/HAU package of practices.",
+      "Avoid moving through fields when leaves are wet with morning dew."
+    ],
+    "safety_warning": "Follow safety protocols when handling bactericides. Never allow agricultural chemical runoff to enter local canals or drinking water sources.",
+    "sources": [
+      {
+        "institution": "Punjab Agricultural University (PAU), Ludhiana",
+        "publication": "Package of Practices for Kharif Crops: Rice Disease Management",
+        "url": "https://www.pau.edu"
+      },
+      {
+        "institution": "ICAR - National Rice Research Institute (NRRI), Cuttack",
+        "publication": "Bacterial Leaf Blight of Rice: Identification and Control",
+        "url": "https://icar-nrri.gov.in"
+      }
+    ]
+  },
+  {
+    "crop": "Rice",
+    "disease": "Blast",
+    "pathogen": "Magnaporthe oryzae / Pyricularia oryzae (Fungus)",
+    "regional_status": "Major destructive threat in Basmati belts of Punjab (Amritsar, Gurdaspur) and Haryana (Karnal, Kurukshetra).",
+    "symptoms": "Spindle-shaped or eye-shaped lesions with grayish or whitish centers and distinct brown or reddish-brown borders. Lesions may coalesce and cause entire leaves to wither and burn ('leaf blast'). Infection at the neck node ('neck blast') turns the panicle axis black and causes panicles to break or produce chaffy grains.",
+    "favorable_conditions": "Cool night temperatures (18°C to 24°C), high relative humidity (>90%), persistent overcast skies, and heavy nitrogen fertilization.",
+    "prevention_practices": [
+      "Select blast-tolerant varieties recommended by PAU/HAU (e.g., Pusa Basmati 1121, Pusa Basmati 1509 with timely care).",
+      "Treat seeds with Carbendazim 50 WP or Tricyclazole 75 WP before nursery sowing.",
+      "Avoid excessive and late nitrogen fertilization; apply potassium to strengthen silica deposition in epidermal cells."
+    ],
+    "management_practices": [
+      "At early leaf blast symptom onset, spray Tricyclazole 75 WP or Isoprothiolane 40 EC or Azoxystrobin 18.2% + Difenoconazole 11.4% SC.",
+      "To protect against disastrous neck blast, apply a preventive spray at boot leaf / panicle emergence stage.",
+      "Maintain 5 cm standing water in paddy fields during critical vegetative stages."
+    ],
+    "safety_warning": "Observe mandatory pre-harvest interval (PHI) for Basmati export grain compliance. Wear personal protective equipment.",
+    "sources": [
+      {
+        "institution": "Punjab Agricultural University (PAU), Ludhiana",
+        "publication": "PAU Basmati Production and Protection Manual",
+        "url": "https://www.pau.edu"
+      },
+      {
+        "institution": "CCS Haryana Agricultural University (HAU), Hisar",
+        "publication": "Rice Blast Surveillance and Chemical Advisory",
+        "url": "https://www.hau.ac.in"
+      }
+    ]
+  },
+  {
+    "crop": "Rice",
+    "disease": "Brown Spot",
+    "pathogen": "Bipolaris oryzae / Helminthosporium oryzae (Fungus)",
+    "regional_status": "Common in light textured, nutrient-stressed, or moisture-deficient soils across Punjab and Haryana.",
+    "symptoms": "Numerous small, circular to oval, reddish-brown to dark brown spots uniformly distributed across the leaf blade. Fully developed spots have light brown to gray centers with a bright yellow chlorotic halo. Severe infection produces dark brown discolorations on glumes and poor grain filling.",
+    "favorable_conditions": "High humidity (86% to 100%), temperatures between 25°C to 30°C, and soil deficiency in potassium, manganese, or zinc.",
+    "prevention_practices": [
+      "Test soil and rectify nutrient deficiencies; ensure adequate zinc sulphate application (25 kg/ha of 21% ZnSO4).",
+      "Soak seeds in Thiram + Carbendazim fungicide slurry before sowing.",
+      "Avoid water stress during tillering and flowering stages."
+    ],
+    "management_practices": [
+      "Top-dress with balanced potash (MOP) to enhance host plant resistance.",
+      "Apply protective foliar spray of Mancozeb 75 WP or Propiconazole 25 EC at initial disease appearance.",
+      "Plow under infected crop residues immediately post-harvest."
+    ],
+    "safety_warning": "Store fungicides in locked, dry storage away from food and animal feed. Do not reuse chemical bottles.",
+    "sources": [
+      {
+        "institution": "ICAR - Indian Institute of Rice Research (IIRR), Hyderabad",
+        "publication": "Compendium of Rice Diseases: Brown Spot Etiology",
+        "url": "https://www.icar-iirr.org"
+      }
+    ]
+  },
+  {
+    "crop": "Rice",
+    "disease": "Healthy",
+    "pathogen": "None (Healthy Crop)",
+    "regional_status": "Optimal growth stage in transplanted or direct-seeded paddy (DSR).",
+    "symptoms": "Erect, deep-green foliage, robust tillering, clean unblemished leaf sheaths, and healthy white root system.",
+    "favorable_conditions": "Adequate soil organic matter, intermittent wetting and drying (AWD) water management, balanced NPKZn application.",
+    "prevention_practices": [
+      "Practice Alternate Wetting and Drying (AWD) to conserve groundwater and reduce methane emissions.",
+      "Regularly scout for stem borers and planthoppers using light traps."
+    ],
+    "management_practices": [
+      "Maintain recommended water depth (5 cm) during critical panicle initiation to grain dough stages."
+    ],
+    "safety_warning": "Wear protective rubber boots during water management to prevent water-borne infections.",
+    "sources": [
+      {
+        "institution": "Punjab Agricultural University (PAU), Ludhiana",
+        "publication": "Guide to Rice Cultivation in Punjab",
+        "url": "https://www.pau.edu"
+      }
+    ]
+  }
+]

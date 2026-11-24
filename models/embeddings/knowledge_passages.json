@@ -1,0 +1,1150 @@
+[
+  {
+    "crop": "Potato",
+    "disease": "Early Blight",
+    "intent": "disease_symptoms",
+    "text": "Symptoms of Potato Early Blight: Initial symptoms appear on older lower leaves as small, dark brown to black circular or angular spots with characteristic concentric rings creating a 'target board' effect. Lesions may enlarge, coalesce, and cause premature defoliation.",
+    "sources": [
+      {
+        "institution": "Punjab Agricultural University (PAU), Ludhiana",
+        "publication": "Package of Practices for Vegetable Crops (Rabi) - Potato Diseases",
+        "url": "https://www.pau.edu"
+      },
+      {
+        "institution": "ICAR - Central Potato Research Institute (CPRI), Shimla",
+        "publication": "Potato Pest and Disease Management Advisory Bulletin",
+        "url": "https://cpri.icar.gov.in"
+      }
+    ]
+  },
+  {
+    "crop": "Potato",
+    "disease": "Early Blight",
+    "intent": "disease_causes",
+    "text": "Causes and favorable weather for Potato Early Blight (Alternaria solani (Fungus)): Alternating dry and warm periods with high relative humidity (above 80%) and temperatures between 24\u00b0C to 29\u00b0C.. Regional status: Prevalent across Punjab and Haryana plains during warm, humid spells of October-December.",
+    "sources": [
+      {
+        "institution": "Punjab Agricultural University (PAU), Ludhiana",
+        "publication": "Package of Practices for Vegetable Crops (Rabi) - Potato Diseases",
+        "url": "https://www.pau.edu"
+      },
+      {
+        "institution": "ICAR - Central Potato Research Institute (CPRI), Shimla",
+        "publication": "Potato Pest and Disease Management Advisory Bulletin",
+        "url": "https://cpri.icar.gov.in"
+      }
+    ]
+  },
+  {
+    "crop": "Potato",
+    "disease": "Early Blight",
+    "intent": "disease_prevention",
+    "text": "Prevention practices for Potato Early Blight: Use certified disease-free seed tubers from verified Punjab/Haryana seed growers. Practice crop rotation with non-solanaceous crops for at least 2-3 years. Ensure balanced fertilization; avoid excessive nitrogen which delays leaf maturity. Maintain adequate spacing to promote airflow within the canopy and reduce leaf wetness.",
+    "sources": [
+      {
+        "institution": "Punjab Agricultural University (PAU), Ludhiana",
+        "publication": "Package of Practices for Vegetable Crops (Rabi) - Potato Diseases",
+        "url": "https://www.pau.edu"
+      },
+      {
+        "institution": "ICAR - Central Potato Research Institute (CPRI), Shimla",
+        "publication": "Potato Pest and Disease Management Advisory Bulletin",
+        "url": "https://cpri.icar.gov.in"
+      }
+    ]
+  },
+  {
+    "crop": "Potato",
+    "disease": "Early Blight",
+    "intent": "disease_management",
+    "text": "Management and control practices for Potato Early Blight: Destroy and burn infected crop debris and volunteer plants post-harvest. Apply protective contact fungicides such as Mancozeb 75 WP or Chlorothalonil 75 WP at first sign of lower leaf spotting. In severe outbreaks under humid conditions, consult PAU/HAU spray schedule for systemic fungicides (e.g., Azoxystrobin + Difenoconazole). Follow safe waiting periods (PHI) before tuber harvesting. Safety notice: Always wear protective gloves and face masks when handling fungicides. Spray during calm morning or evening hours. Adhere strictly to the CIB&RC approved label instructions.",
+    "sources": [
+      {
+        "institution": "Punjab Agricultural University (PAU), Ludhiana",
+        "publication": "Package of Practices for Vegetable Crops (Rabi) - Potato Diseases",
+        "url": "https://www.pau.edu"
+      },
+      {
+        "institution": "ICAR - Central Potato Research Institute (CPRI), Shimla",
+        "publication": "Potato Pest and Disease Management Advisory Bulletin",
+        "url": "https://cpri.icar.gov.in"
+      }
+    ]
+  },
+  {
+    "crop": "Potato",
+    "disease": "Late Blight",
+    "intent": "disease_symptoms",
+    "text": "Symptoms of Potato Late Blight: Water-soaked, irregular pale to dark green lesions near leaf margins and tips. Under cool, humid conditions, lesions expand rapidly into large brown-black dead areas with delicate white cottony fungal growth on the underside of leaves. Infected tubers show irregular purplish-brown dry rot.",
+    "sources": [
+      {
+        "institution": "Punjab Agricultural University (PAU), Ludhiana",
+        "publication": "PAU Late Blight Forecast and Management Guidelines",
+        "url": "https://www.pau.edu"
+      },
+      {
+        "institution": "CCS Haryana Agricultural University (HAU), Hisar",
+        "publication": "Package of Practices for Rabi Crops: Potato Care",
+        "url": "https://www.hau.ac.in"
+      }
+    ]
+  },
+  {
+    "crop": "Potato",
+    "disease": "Late Blight",
+    "intent": "disease_causes",
+    "text": "Causes and favorable weather for Potato Late Blight (Phytophthora infestans (Oomycete)): Temperatures between 10\u00b0C to 20\u00b0C with persistent high relative humidity (>90%) and morning fogs or dew.. Regional status: Major destructive disease in Punjab and Haryana during foggy, overcast winter months (December-January).",
+    "sources": [
+      {
+        "institution": "Punjab Agricultural University (PAU), Ludhiana",
+        "publication": "PAU Late Blight Forecast and Management Guidelines",
+        "url": "https://www.pau.edu"
+      },
+      {
+        "institution": "CCS Haryana Agricultural University (HAU), Hisar",
+        "publication": "Package of Practices for Rabi Crops: Potato Care",
+        "url": "https://www.hau.ac.in"
+      }
+    ]
+  },
+  {
+    "crop": "Potato",
+    "disease": "Late Blight",
+    "intent": "disease_prevention",
+    "text": "Prevention practices for Potato Late Blight: Select resistant or tolerant varieties recommended by PAU/CPRI (e.g., Kufri Pukhraj, Kufri Jyoti). Treat seed tubers with approved protective fungicide before planting. Avoid excess furrow irrigation that maintains standing water or excessive humidity in fields. Regularly scout fields when PAU/HAU issues late blight weather warnings.",
+    "sources": [
+      {
+        "institution": "Punjab Agricultural University (PAU), Ludhiana",
+        "publication": "PAU Late Blight Forecast and Management Guidelines",
+        "url": "https://www.pau.edu"
+      },
+      {
+        "institution": "CCS Haryana Agricultural University (HAU), Hisar",
+        "publication": "Package of Practices for Rabi Crops: Potato Care",
+        "url": "https://www.hau.ac.in"
+      }
+    ]
+  },
+  {
+    "crop": "Potato",
+    "disease": "Late Blight",
+    "intent": "disease_management",
+    "text": "Management and control practices for Potato Late Blight: Apply preventive protective spray of Mancozeb 75 WP as soon as weather conditions become favorable for blight. If disease appears, switch to systemic fungicides such as Cymoxanil + Mancozeb or Metalaxyl-M + Mancozeb as recommended by local KVK. Halt irrigation immediately upon noticing blight spread. De-haulm (cut and destroy haulms) 10-15 days before harvest to prevent tuber infection from dying leaves. Safety notice: Wear protective gear during chemical spraying. Ensure proper disposal of chemical containers. Do not feed infected foliage to livestock.",
+    "sources": [
+      {
+        "institution": "Punjab Agricultural University (PAU), Ludhiana",
+        "publication": "PAU Late Blight Forecast and Management Guidelines",
+        "url": "https://www.pau.edu"
+      },
+      {
+        "institution": "CCS Haryana Agricultural University (HAU), Hisar",
+        "publication": "Package of Practices for Rabi Crops: Potato Care",
+        "url": "https://www.hau.ac.in"
+      }
+    ]
+  },
+  {
+    "crop": "Potato",
+    "disease": "Healthy",
+    "intent": "disease_symptoms",
+    "text": "Symptoms of Potato Healthy: Vibrant green leaves, uniform canopy, absence of necrotic lesions, concentric rings, chlorosis, or wilting.",
+    "sources": [
+      {
+        "institution": "ICAR - Central Potato Research Institute (CPRI)",
+        "publication": "Good Agricultural Practices (GAP) for Potato Cultivation",
+        "url": "https://cpri.icar.gov.in"
+      }
+    ]
+  },
+  {
+    "crop": "Potato",
+    "disease": "Healthy",
+    "intent": "disease_causes",
+    "text": "Causes and favorable weather for Potato Healthy (None (Healthy Crop)): Well-drained sandy loam soil, optimal soil moisture, balanced NPK application.. Regional status: Normal healthy growth stage.",
+    "sources": [
+      {
+        "institution": "ICAR - Central Potato Research Institute (CPRI)",
+        "publication": "Good Agricultural Practices (GAP) for Potato Cultivation",
+        "url": "https://cpri.icar.gov.in"
+      }
+    ]
+  },
+  {
+    "crop": "Potato",
+    "disease": "Healthy",
+    "intent": "disease_prevention",
+    "text": "Prevention practices for Potato Healthy: Maintain timely earthing-up to prevent tuber greening. Monitor for early aphid populations (Myzus persicae) to prevent viral spread. Follow balanced potassium application for strong cell walls and disease resilience.",
+    "sources": [
+      {
+        "institution": "ICAR - Central Potato Research Institute (CPRI)",
+        "publication": "Good Agricultural Practices (GAP) for Potato Cultivation",
+        "url": "https://cpri.icar.gov.in"
+      }
+    ]
+  },
+  {
+    "crop": "Potato",
+    "disease": "Healthy",
+    "intent": "disease_management",
+    "text": "Management and control practices for Potato Healthy: Continue standard irrigation scheduling avoiding waterlogging. Routinely inspect under-canopy foliage for any early micro-symptoms. Safety notice: Routine field operations require standard farm safety precautions.",
+    "sources": [
+      {
+        "institution": "ICAR - Central Potato Research Institute (CPRI)",
+        "publication": "Good Agricultural Practices (GAP) for Potato Cultivation",
+        "url": "https://cpri.icar.gov.in"
+      }
+    ]
+  },
+  {
+    "crop": "Rice",
+    "disease": "Bacterial Leaf Blight",
+    "intent": "disease_symptoms",
+    "text": "Symptoms of Rice Bacterial Leaf Blight: Water-soaked translucent stripes appearing along the margins of leaf blades that quickly turn yellow to bleached white with wavy margins. Milky or opaque bacterial ooze droplets form on young lesions in early morning dew, drying into amber crusts. Severe infection causes 'Kresek' (seedling wilt).",
+    "sources": [
+      {
+        "institution": "Punjab Agricultural University (PAU), Ludhiana",
+        "publication": "Package of Practices for Kharif Crops: Rice Disease Management",
+        "url": "https://www.pau.edu"
+      },
+      {
+        "institution": "ICAR - National Rice Research Institute (NRRI), Cuttack",
+        "publication": "Bacterial Leaf Blight of Rice: Identification and Control",
+        "url": "https://icar-nrri.gov.in"
+      }
+    ]
+  },
+  {
+    "crop": "Rice",
+    "disease": "Bacterial Leaf Blight",
+    "intent": "disease_causes",
+    "text": "Causes and favorable weather for Rice Bacterial Leaf Blight (Xanthomonas oryzae pv. oryzae (Bacteria)): High temperature (25\u00b0C to 34\u00b0C), relative humidity >70%, strong winds and flooding rains that create leaf abrasions.. Regional status: Severe endemic threat in Punjab and Haryana paddy tracts, particularly during heavy monsoon rains and high humidity.",
+    "sources": [
+      {
+        "institution": "Punjab Agricultural University (PAU), Ludhiana",
+        "publication": "Package of Practices for Kharif Crops: Rice Disease Management",
+        "url": "https://www.pau.edu"
+      },
+      {
+        "institution": "ICAR - National Rice Research Institute (NRRI), Cuttack",
+        "publication": "Bacterial Leaf Blight of Rice: Identification and Control",
+        "url": "https://icar-nrri.gov.in"
+      }
+    ]
+  },
+  {
+    "crop": "Rice",
+    "disease": "Bacterial Leaf Blight",
+    "intent": "disease_prevention",
+    "text": "Prevention practices for Rice Bacterial Leaf Blight: Grow resistant or tolerant Basmati and non-Basmati cultivars released by PAU (e.g., PR 126, PR 121, PAU 201). Avoid excess nitrogen application; split nitrogen into three balanced doses. Ensure proper field drainage; do not allow irrigation water to flow directly from an infected field into a healthy field. Clip seedlings only if necessary, and disinfect shears.",
+    "sources": [
+      {
+        "institution": "Punjab Agricultural University (PAU), Ludhiana",
+        "publication": "Package of Practices for Kharif Crops: Rice Disease Management",
+        "url": "https://www.pau.edu"
+      },
+      {
+        "institution": "ICAR - National Rice Research Institute (NRRI), Cuttack",
+        "publication": "Bacterial Leaf Blight of Rice: Identification and Control",
+        "url": "https://icar-nrri.gov.in"
+      }
+    ]
+  },
+  {
+    "crop": "Rice",
+    "disease": "Bacterial Leaf Blight",
+    "intent": "disease_management",
+    "text": "Management and control practices for Rice Bacterial Leaf Blight: Drain the field for 2-3 days when bacterial blight lesions appear to arrest bacterial spread. Refrain from top-dressing urea or nitrogen fertilizers until disease progression halts. Spray Streptocycline (bactericide) mixed with Copper Oxychloride 50 WP as recommended by PAU/HAU package of practices. Avoid moving through fields when leaves are wet with morning dew. Safety notice: Follow safety protocols when handling bactericides. Never allow agricultural chemical runoff to enter local canals or drinking water sources.",
+    "sources": [
+      {
+        "institution": "Punjab Agricultural University (PAU), Ludhiana",
+        "publication": "Package of Practices for Kharif Crops: Rice Disease Management",
+        "url": "https://www.pau.edu"
+      },
+      {
+        "institution": "ICAR - National Rice Research Institute (NRRI), Cuttack",
+        "publication": "Bacterial Leaf Blight of Rice: Identification and Control",
+        "url": "https://icar-nrri.gov.in"
+      }
+    ]
+  },
+  {
+    "crop": "Rice",
+    "disease": "Blast",
+    "intent": "disease_symptoms",
+    "text": "Symptoms of Rice Blast: Spindle-shaped or eye-shaped lesions with grayish or whitish centers and distinct brown or reddish-brown borders. Lesions may coalesce and cause entire leaves to wither and burn ('leaf blast'). Infection at the neck node ('neck blast') turns the panicle axis black and causes panicles to break or produce chaffy grains.",
+    "sources": [
+      {
+        "institution": "Punjab Agricultural University (PAU), Ludhiana",
+        "publication": "PAU Basmati Production and Protection Manual",
+        "url": "https://www.pau.edu"
+      },
+      {
+        "institution": "CCS Haryana Agricultural University (HAU), Hisar",
+        "publication": "Rice Blast Surveillance and Chemical Advisory",
+        "url": "https://www.hau.ac.in"
+      }
+    ]
+  },
+  {
+    "crop": "Rice",
+    "disease": "Blast",
+    "intent": "disease_causes",
+    "text": "Causes and favorable weather for Rice Blast (Magnaporthe oryzae / Pyricularia oryzae (Fungus)): Cool night temperatures (18\u00b0C to 24\u00b0C), high relative humidity (>90%), persistent overcast skies, and heavy nitrogen fertilization.. Regional status: Major destructive threat in Basmati belts of Punjab (Amritsar, Gurdaspur) and Haryana (Karnal, Kurukshetra).",
+    "sources": [
+      {
+        "institution": "Punjab Agricultural University (PAU), Ludhiana",
+        "publication": "PAU Basmati Production and Protection Manual",
+        "url": "https://www.pau.edu"
+      },
+      {
+        "institution": "CCS Haryana Agricultural University (HAU), Hisar",
+        "publication": "Rice Blast Surveillance and Chemical Advisory",
+        "url": "https://www.hau.ac.in"
+      }
+    ]
+  },
+  {
+    "crop": "Rice",
+    "disease": "Blast",
+    "intent": "disease_prevention",
+    "text": "Prevention practices for Rice Blast: Select blast-tolerant varieties recommended by PAU/HAU (e.g., Pusa Basmati 1121, Pusa Basmati 1509 with timely care). Treat seeds with Carbendazim 50 WP or Tricyclazole 75 WP before nursery sowing. Avoid excessive and late nitrogen fertilization; apply potassium to strengthen silica deposition in epidermal cells.",
+    "sources": [
+      {
+        "institution": "Punjab Agricultural University (PAU), Ludhiana",
+        "publication": "PAU Basmati Production and Protection Manual",
+        "url": "https://www.pau.edu"
+      },
+      {
+        "institution": "CCS Haryana Agricultural University (HAU), Hisar",
+        "publication": "Rice Blast Surveillance and Chemical Advisory",
+        "url": "https://www.hau.ac.in"
+      }
+    ]
+  },
+  {
+    "crop": "Rice",
+    "disease": "Blast",
+    "intent": "disease_management",
+    "text": "Management and control practices for Rice Blast: At early leaf blast symptom onset, spray Tricyclazole 75 WP or Isoprothiolane 40 EC or Azoxystrobin 18.2% + Difenoconazole 11.4% SC. To protect against disastrous neck blast, apply a preventive spray at boot leaf / panicle emergence stage. Maintain 5 cm standing water in paddy fields during critical vegetative stages. Safety notice: Observe mandatory pre-harvest interval (PHI) for Basmati export grain compliance. Wear personal protective equipment.",
+    "sources": [
+      {
+        "institution": "Punjab Agricultural University (PAU), Ludhiana",
+        "publication": "PAU Basmati Production and Protection Manual",
+        "url": "https://www.pau.edu"
+      },
+      {
+        "institution": "CCS Haryana Agricultural University (HAU), Hisar",
+        "publication": "Rice Blast Surveillance and Chemical Advisory",
+        "url": "https://www.hau.ac.in"
+      }
+    ]
+  },
+  {
+    "crop": "Rice",
+    "disease": "Brown Spot",
+    "intent": "disease_symptoms",
+    "text": "Symptoms of Rice Brown Spot: Numerous small, circular to oval, reddish-brown to dark brown spots uniformly distributed across the leaf blade. Fully developed spots have light brown to gray centers with a bright yellow chlorotic halo. Severe infection produces dark brown discolorations on glumes and poor grain filling.",
+    "sources": [
+      {
+        "institution": "ICAR - Indian Institute of Rice Research (IIRR), Hyderabad",
+        "publication": "Compendium of Rice Diseases: Brown Spot Etiology",
+        "url": "https://www.icar-iirr.org"
+      }
+    ]
+  },
+  {
+    "crop": "Rice",
+    "disease": "Brown Spot",
+    "intent": "disease_causes",
+    "text": "Causes and favorable weather for Rice Brown Spot (Bipolaris oryzae / Helminthosporium oryzae (Fungus)): High humidity (86% to 100%), temperatures between 25\u00b0C to 30\u00b0C, and soil deficiency in potassium, manganese, or zinc.. Regional status: Common in light textured, nutrient-stressed, or moisture-deficient soils across Punjab and Haryana.",
+    "sources": [
+      {
+        "institution": "ICAR - Indian Institute of Rice Research (IIRR), Hyderabad",
+        "publication": "Compendium of Rice Diseases: Brown Spot Etiology",
+        "url": "https://www.icar-iirr.org"
+      }
+    ]
+  },
+  {
+    "crop": "Rice",
+    "disease": "Brown Spot",
+    "intent": "disease_prevention",
+    "text": "Prevention practices for Rice Brown Spot: Test soil and rectify nutrient deficiencies; ensure adequate zinc sulphate application (25 kg/ha of 21% ZnSO4). Soak seeds in Thiram + Carbendazim fungicide slurry before sowing. Avoid water stress during tillering and flowering stages.",
+    "sources": [
+      {
+        "institution": "ICAR - Indian Institute of Rice Research (IIRR), Hyderabad",
+        "publication": "Compendium of Rice Diseases: Brown Spot Etiology",
+        "url": "https://www.icar-iirr.org"
+      }
+    ]
+  },
+  {
+    "crop": "Rice",
+    "disease": "Brown Spot",
+    "intent": "disease_management",
+    "text": "Management and control practices for Rice Brown Spot: Top-dress with balanced potash (MOP) to enhance host plant resistance. Apply protective foliar spray of Mancozeb 75 WP or Propiconazole 25 EC at initial disease appearance. Plow under infected crop residues immediately post-harvest. Safety notice: Store fungicides in locked, dry storage away from food and animal feed. Do not reuse chemical bottles.",
+    "sources": [
+      {
+        "institution": "ICAR - Indian Institute of Rice Research (IIRR), Hyderabad",
+        "publication": "Compendium of Rice Diseases: Brown Spot Etiology",
+        "url": "https://www.icar-iirr.org"
+      }
+    ]
+  },
+  {
+    "crop": "Rice",
+    "disease": "Healthy",
+    "intent": "disease_symptoms",
+    "text": "Symptoms of Rice Healthy: Erect, deep-green foliage, robust tillering, clean unblemished leaf sheaths, and healthy white root system.",
+    "sources": [
+      {
+        "institution": "Punjab Agricultural University (PAU), Ludhiana",
+        "publication": "Guide to Rice Cultivation in Punjab",
+        "url": "https://www.pau.edu"
+      }
+    ]
+  },
+  {
+    "crop": "Rice",
+    "disease": "Healthy",
+    "intent": "disease_causes",
+    "text": "Causes and favorable weather for Rice Healthy (None (Healthy Crop)): Adequate soil organic matter, intermittent wetting and drying (AWD) water management, balanced NPKZn application.. Regional status: Optimal growth stage in transplanted or direct-seeded paddy (DSR).",
+    "sources": [
+      {
+        "institution": "Punjab Agricultural University (PAU), Ludhiana",
+        "publication": "Guide to Rice Cultivation in Punjab",
+        "url": "https://www.pau.edu"
+      }
+    ]
+  },
+  {
+    "crop": "Rice",
+    "disease": "Healthy",
+    "intent": "disease_prevention",
+    "text": "Prevention practices for Rice Healthy: Practice Alternate Wetting and Drying (AWD) to conserve groundwater and reduce methane emissions. Regularly scout for stem borers and planthoppers using light traps.",
+    "sources": [
+      {
+        "institution": "Punjab Agricultural University (PAU), Ludhiana",
+        "publication": "Guide to Rice Cultivation in Punjab",
+        "url": "https://www.pau.edu"
+      }
+    ]
+  },
+  {
+    "crop": "Rice",
+    "disease": "Healthy",
+    "intent": "disease_management",
+    "text": "Management and control practices for Rice Healthy: Maintain recommended water depth (5 cm) during critical panicle initiation to grain dough stages. Safety notice: Wear protective rubber boots during water management to prevent water-borne infections.",
+    "sources": [
+      {
+        "institution": "Punjab Agricultural University (PAU), Ludhiana",
+        "publication": "Guide to Rice Cultivation in Punjab",
+        "url": "https://www.pau.edu"
+      }
+    ]
+  },
+  {
+    "crop": "Tomato",
+    "disease": "Early Blight",
+    "intent": "disease_symptoms",
+    "text": "Symptoms of Tomato Early Blight: Dark brown to black necrotic spots with concentric rings, primarily originating on older bottom leaves. Foliage turns yellow around the lesions and drops prematurely, exposing fruit to sunscald. Stem collar rot may occur on young transplants.",
+    "sources": [
+      {
+        "institution": "Punjab Agricultural University (PAU), Ludhiana",
+        "publication": "Package of Practices for Cultivation of Vegetables - Tomato Pathologies",
+        "url": "https://www.pau.edu"
+      },
+      {
+        "institution": "ICAR - Indian Institute of Vegetable Research (IIVR), Varanasi",
+        "publication": "Integrated Pest and Disease Management in Tomato",
+        "url": "https://iivr.icar.gov.in"
+      }
+    ]
+  },
+  {
+    "crop": "Tomato",
+    "disease": "Early Blight",
+    "intent": "disease_causes",
+    "text": "Causes and favorable weather for Tomato Early Blight (Alternaria solani (Fungus)): Warm temperatures (24\u00b0C to 30\u00b0C) with prolonged leaf wetness from frequent rain, overhead irrigation, or heavy dew.. Regional status: Widely prevalent in Punjab and Haryana plains during both autumn and spring tomato seasons.",
+    "sources": [
+      {
+        "institution": "Punjab Agricultural University (PAU), Ludhiana",
+        "publication": "Package of Practices for Cultivation of Vegetables - Tomato Pathologies",
+        "url": "https://www.pau.edu"
+      },
+      {
+        "institution": "ICAR - Indian Institute of Vegetable Research (IIVR), Varanasi",
+        "publication": "Integrated Pest and Disease Management in Tomato",
+        "url": "https://iivr.icar.gov.in"
+      }
+    ]
+  },
+  {
+    "crop": "Tomato",
+    "disease": "Early Blight",
+    "intent": "disease_prevention",
+    "text": "Prevention practices for Tomato Early Blight: Obtain certified disease-free transplants from reputable state nurseries or PAU/HAU. Stake tomato vines and prune lower suckers to maintain distance between lower foliage and moist soil. Use drip irrigation or furrow irrigation instead of overhead sprinklers. Apply organic straw mulch around plant bases to prevent soil splashing onto foliage.",
+    "sources": [
+      {
+        "institution": "Punjab Agricultural University (PAU), Ludhiana",
+        "publication": "Package of Practices for Cultivation of Vegetables - Tomato Pathologies",
+        "url": "https://www.pau.edu"
+      },
+      {
+        "institution": "ICAR - Indian Institute of Vegetable Research (IIVR), Varanasi",
+        "publication": "Integrated Pest and Disease Management in Tomato",
+        "url": "https://iivr.icar.gov.in"
+      }
+    ]
+  },
+  {
+    "crop": "Tomato",
+    "disease": "Early Blight",
+    "intent": "disease_management",
+    "text": "Management and control practices for Tomato Early Blight: Remove and safely burn or bury infected bottom leaves during early scouting. Spray Mancozeb 75 WP or Copper Oxychloride 50 WP as a protective shield at first disease detection. Under high infection pressure, apply systemic fungicides (e.g., Tebuconazole or Azoxystrobin) following PAU vegetable spray recommendations. Observe proper harvest safety intervals (waiting periods) post-spray. Safety notice: Wear protective gear during fungicide preparation and spraying. Wash hands and equipment thoroughly. Do not harvest fruit within recommended pre-harvest interval.",
+    "sources": [
+      {
+        "institution": "Punjab Agricultural University (PAU), Ludhiana",
+        "publication": "Package of Practices for Cultivation of Vegetables - Tomato Pathologies",
+        "url": "https://www.pau.edu"
+      },
+      {
+        "institution": "ICAR - Indian Institute of Vegetable Research (IIVR), Varanasi",
+        "publication": "Integrated Pest and Disease Management in Tomato",
+        "url": "https://iivr.icar.gov.in"
+      }
+    ]
+  },
+  {
+    "crop": "Tomato",
+    "disease": "Late Blight",
+    "intent": "disease_symptoms",
+    "text": "Symptoms of Tomato Late Blight: Large, irregular, pale water-soaked spots developing rapidly on leaves and petioles. Lesions turn purplish-black with white cottony fungal growth on the underside during humid mornings. Fruits develop firm, greasy, dark brown sunken blotches.",
+    "sources": [
+      {
+        "institution": "Punjab Agricultural University (PAU), Ludhiana",
+        "publication": "PAU Agricultural Advisory: Late Blight Warning in Solanaceous Crops",
+        "url": "https://www.pau.edu"
+      },
+      {
+        "institution": "CCS Haryana Agricultural University (HAU), Hisar",
+        "publication": "Vegetable Protection Bulletins - Tomato Late Blight Control",
+        "url": "https://www.hau.ac.in"
+      }
+    ]
+  },
+  {
+    "crop": "Tomato",
+    "disease": "Late Blight",
+    "intent": "disease_causes",
+    "text": "Causes and favorable weather for Tomato Late Blight (Phytophthora infestans (Oomycete)): Cool temperatures (12\u00b0C to 20\u00b0C) combined with high humidity (>90%) and morning fogs.. Regional status: Highly destructive during cold, overcast, fog-prone periods in Punjab and Haryana (December to February).",
+    "sources": [
+      {
+        "institution": "Punjab Agricultural University (PAU), Ludhiana",
+        "publication": "PAU Agricultural Advisory: Late Blight Warning in Solanaceous Crops",
+        "url": "https://www.pau.edu"
+      },
+      {
+        "institution": "CCS Haryana Agricultural University (HAU), Hisar",
+        "publication": "Vegetable Protection Bulletins - Tomato Late Blight Control",
+        "url": "https://www.hau.ac.in"
+      }
+    ]
+  },
+  {
+    "crop": "Tomato",
+    "disease": "Late Blight",
+    "intent": "disease_prevention",
+    "text": "Prevention practices for Tomato Late Blight: Plant tolerant cultivars recommended by PAU (e.g., Punjab Upkar, Punjab Ratta). Avoid planting tomato adjacent to infected potato fields as Phytophthora readily crosses between hosts. Ensure wide row spacing for maximum sunlight penetration and air movement. Monitor daily PAU/HAU agricultural meteorology advisories for blight alert notices.",
+    "sources": [
+      {
+        "institution": "Punjab Agricultural University (PAU), Ludhiana",
+        "publication": "PAU Agricultural Advisory: Late Blight Warning in Solanaceous Crops",
+        "url": "https://www.pau.edu"
+      },
+      {
+        "institution": "CCS Haryana Agricultural University (HAU), Hisar",
+        "publication": "Vegetable Protection Bulletins - Tomato Late Blight Control",
+        "url": "https://www.hau.ac.in"
+      }
+    ]
+  },
+  {
+    "crop": "Tomato",
+    "disease": "Late Blight",
+    "intent": "disease_management",
+    "text": "Management and control practices for Tomato Late Blight: Apply prophylactic protective spray of Mancozeb 75 WP when night temperatures drop and humidity rises. At earliest symptom appearance, spray Cymoxanil 8% + Mancozeb 64% WP or Metalaxyl 8% + Mancozeb 64% WP. Destroy and dispose of blighted fruits and vines immediately outside the cropping field. Avoid excess irrigation during foggy spells. Safety notice: Handle chemical concentrates with rubber gloves and eye protection. Prevent spray drift to nearby water bodies and residential areas.",
+    "sources": [
+      {
+        "institution": "Punjab Agricultural University (PAU), Ludhiana",
+        "publication": "PAU Agricultural Advisory: Late Blight Warning in Solanaceous Crops",
+        "url": "https://www.pau.edu"
+      },
+      {
+        "institution": "CCS Haryana Agricultural University (HAU), Hisar",
+        "publication": "Vegetable Protection Bulletins - Tomato Late Blight Control",
+        "url": "https://www.hau.ac.in"
+      }
+    ]
+  },
+  {
+    "crop": "Tomato",
+    "disease": "Septoria Leaf Spot",
+    "intent": "disease_symptoms",
+    "text": "Symptoms of Tomato Septoria Leaf Spot: Numerous small, circular spots (1.5 to 3 mm diameter) with dark brown margins and sunken grayish-white centers dotted with tiny black fruiting bodies (pycnidia). Begins on oldest leaves and progresses upward, leading to complete skeletonization.",
+    "sources": [
+      {
+        "institution": "ICAR - Indian Agricultural Research Institute (IARI), New Delhi",
+        "publication": "Fungal Foliar Diseases of Solanaceous Vegetables",
+        "url": "https://www.iari.res.in"
+      }
+    ]
+  },
+  {
+    "crop": "Tomato",
+    "disease": "Septoria Leaf Spot",
+    "intent": "disease_causes",
+    "text": "Causes and favorable weather for Tomato Septoria Leaf Spot (Septoria lycopersici (Fungus)): Moderate temperatures (20\u00b0C to 25\u00b0C) with persistent high humidity and rainy splash dispersal.. Regional status: Commonly encountered during warm, wet monsoon or spring periods in North Indian plains.",
+    "sources": [
+      {
+        "institution": "ICAR - Indian Agricultural Research Institute (IARI), New Delhi",
+        "publication": "Fungal Foliar Diseases of Solanaceous Vegetables",
+        "url": "https://www.iari.res.in"
+      }
+    ]
+  },
+  {
+    "crop": "Tomato",
+    "disease": "Septoria Leaf Spot",
+    "intent": "disease_prevention",
+    "text": "Prevention practices for Tomato Septoria Leaf Spot: Eliminate solanaceous weeds (e.g., Solanum nigrum) around field borders. Use clean seed and practice hot-water or fungicide seed treatment. Mulch beds to eliminate rain splash from soil onto lower foliage.",
+    "sources": [
+      {
+        "institution": "ICAR - Indian Agricultural Research Institute (IARI), New Delhi",
+        "publication": "Fungal Foliar Diseases of Solanaceous Vegetables",
+        "url": "https://www.iari.res.in"
+      }
+    ]
+  },
+  {
+    "crop": "Tomato",
+    "disease": "Septoria Leaf Spot",
+    "intent": "disease_management",
+    "text": "Management and control practices for Tomato Septoria Leaf Spot: Rogue out severely infected lower foliage before pycnidia mature. Apply protective fungicides like Chlorothalonil 75 WP or Mancozeb 75 WP at 7-10 day intervals. Ensure proper crop rotation with cereals or legumes. Safety notice: Wear protective coveralls and respirators during application. Follow recommended label dilutions.",
+    "sources": [
+      {
+        "institution": "ICAR - Indian Agricultural Research Institute (IARI), New Delhi",
+        "publication": "Fungal Foliar Diseases of Solanaceous Vegetables",
+        "url": "https://www.iari.res.in"
+      }
+    ]
+  },
+  {
+    "crop": "Tomato",
+    "disease": "Leaf Mold",
+    "intent": "disease_symptoms",
+    "text": "Symptoms of Tomato Leaf Mold: Pale green or yellowish chlorotic patches on the upper leaf surface without sharp margins. Directly underneath on the lower surface, olive-green to velvety brown mold growth develops.",
+    "sources": [
+      {
+        "institution": "Punjab Agricultural University (PAU), Ludhiana",
+        "publication": "Protected Cultivation of Tomato: Disease Diagnostics",
+        "url": "https://www.pau.edu"
+      }
+    ]
+  },
+  {
+    "crop": "Tomato",
+    "disease": "Leaf Mold",
+    "intent": "disease_causes",
+    "text": "Causes and favorable weather for Tomato Leaf Mold (Passalora fulva / Cladosporium fulvum (Fungus)): High relative humidity (>85%) and moderate temperatures (20\u00b0C to 25\u00b0C) with poor air ventilation.. Regional status: Frequent in polyhouse/net-house tomato cultivations and humid sheltered fields in Punjab.",
+    "sources": [
+      {
+        "institution": "Punjab Agricultural University (PAU), Ludhiana",
+        "publication": "Protected Cultivation of Tomato: Disease Diagnostics",
+        "url": "https://www.pau.edu"
+      }
+    ]
+  },
+  {
+    "crop": "Tomato",
+    "disease": "Leaf Mold",
+    "intent": "disease_prevention",
+    "text": "Prevention practices for Tomato Leaf Mold: Enhance greenhouse ventilation and increase plant spacing. Avoid wetting leaves during evening irrigations. Grow resistant hybrids selected for greenhouse cultivation.",
+    "sources": [
+      {
+        "institution": "Punjab Agricultural University (PAU), Ludhiana",
+        "publication": "Protected Cultivation of Tomato: Disease Diagnostics",
+        "url": "https://www.pau.edu"
+      }
+    ]
+  },
+  {
+    "crop": "Tomato",
+    "disease": "Leaf Mold",
+    "intent": "disease_management",
+    "text": "Management and control practices for Tomato Leaf Mold: Prune dense canopy foliage to reduce inner humidity. Apply Copper Oxychloride 50 WP or Difenoconazole 25 EC as advised by agricultural extension specialists. Safety notice: Maintain well-ventilated conditions while applying protective sprays inside polyhouses.",
+    "sources": [
+      {
+        "institution": "Punjab Agricultural University (PAU), Ludhiana",
+        "publication": "Protected Cultivation of Tomato: Disease Diagnostics",
+        "url": "https://www.pau.edu"
+      }
+    ]
+  },
+  {
+    "crop": "Tomato",
+    "disease": "Bacterial Spot",
+    "intent": "disease_symptoms",
+    "text": "Symptoms of Tomato Bacterial Spot: Small, angular, greasy, dark brown to black water-soaked lesions on leaves, often surrounded by yellow halos. Lesions dry up and tear, giving a ragged appearance. Raised, scabby, rough pustules form on green fruits.",
+    "sources": [
+      {
+        "institution": "CCS Haryana Agricultural University (HAU), Hisar",
+        "publication": "Bacterial Pathogens of Vegetable Crops in Haryana",
+        "url": "https://www.hau.ac.in"
+      }
+    ]
+  },
+  {
+    "crop": "Tomato",
+    "disease": "Bacterial Spot",
+    "intent": "disease_causes",
+    "text": "Causes and favorable weather for Tomato Bacterial Spot (Xanthomonas vesicatoria / Xanthomonas spp. (Bacteria)): Warm temperatures (25\u00b0C to 30\u00b0C) with driving rains, overhead irrigation, and high wind-driven aerosols.. Regional status: Severe during monsoon and post-monsoon humid cycles in Punjab and Haryana.",
+    "sources": [
+      {
+        "institution": "CCS Haryana Agricultural University (HAU), Hisar",
+        "publication": "Bacterial Pathogens of Vegetable Crops in Haryana",
+        "url": "https://www.hau.ac.in"
+      }
+    ]
+  },
+  {
+    "crop": "Tomato",
+    "disease": "Bacterial Spot",
+    "intent": "disease_prevention",
+    "text": "Prevention practices for Tomato Bacterial Spot: Soak seeds in hot water (50\u00b0C for 25 min) or treat with Streptocycline solution prior to nursery sowing. Avoid handling or weeding wet foliage to prevent mechanical bacterial transmission. Disinfect nursery trays and tools with 1% sodium hypochlorite.",
+    "sources": [
+      {
+        "institution": "CCS Haryana Agricultural University (HAU), Hisar",
+        "publication": "Bacterial Pathogens of Vegetable Crops in Haryana",
+        "url": "https://www.hau.ac.in"
+      }
+    ]
+  },
+  {
+    "crop": "Tomato",
+    "disease": "Bacterial Spot",
+    "intent": "disease_management",
+    "text": "Management and control practices for Tomato Bacterial Spot: Spray copper hydroxide or copper oxychloride combined with bactericide (Streptocycline / Streptomycin sulphate) at recommended state dosages. Immediately rogue out early seedling infections in nursery beds. Safety notice: Handle bactericides responsibly. Avoid inhaling chemical mist. Observe strict pre-harvest intervals.",
+    "sources": [
+      {
+        "institution": "CCS Haryana Agricultural University (HAU), Hisar",
+        "publication": "Bacterial Pathogens of Vegetable Crops in Haryana",
+        "url": "https://www.hau.ac.in"
+      }
+    ]
+  },
+  {
+    "crop": "Tomato",
+    "disease": "Tomato Mosaic Virus",
+    "intent": "disease_symptoms",
+    "text": "Symptoms of Tomato Tomato Mosaic Virus: Mottling with alternating light green and dark green patches on leaves. Severe leaf puckering, distortion, 'shoestring' or 'fern-leaf' malformations, and stunted plant growth.",
+    "sources": [
+      {
+        "institution": "ICAR - Indian Institute of Vegetable Research (IIVR)",
+        "publication": "Viral Diseases of Tomato and Their Integrated Management",
+        "url": "https://iivr.icar.gov.in"
+      }
+    ]
+  },
+  {
+    "crop": "Tomato",
+    "disease": "Tomato Mosaic Virus",
+    "intent": "disease_causes",
+    "text": "Causes and favorable weather for Tomato Tomato Mosaic Virus (Tomato Mosaic Virus - ToMV (Viral)): Transmitted easily through mechanical contact, contaminated tools, workers' hands, and infected seed.. Regional status: Prevalent in intensively cropped tomato belts across Northern India.",
+    "sources": [
+      {
+        "institution": "ICAR - Indian Institute of Vegetable Research (IIVR)",
+        "publication": "Viral Diseases of Tomato and Their Integrated Management",
+        "url": "https://iivr.icar.gov.in"
+      }
+    ]
+  },
+  {
+    "crop": "Tomato",
+    "disease": "Tomato Mosaic Virus",
+    "intent": "disease_prevention",
+    "text": "Prevention practices for Tomato Tomato Mosaic Virus: Use certified virus-free seed from verified institutional sources. Wash hands and tools with 10% trisodium phosphate (TSP) or skim milk solution before handling seedlings. Workers who consume or handle tobacco must wash hands thoroughly before touching tomato crops.",
+    "sources": [
+      {
+        "institution": "ICAR - Indian Institute of Vegetable Research (IIVR)",
+        "publication": "Viral Diseases of Tomato and Their Integrated Management",
+        "url": "https://iivr.icar.gov.in"
+      }
+    ]
+  },
+  {
+    "crop": "Tomato",
+    "disease": "Tomato Mosaic Virus",
+    "intent": "disease_management",
+    "text": "Management and control practices for Tomato Tomato Mosaic Virus: Rogue out and destroy infected viral plants immediately upon symptom detection to prevent mechanical spread. Control insect vectors (thrips and aphids) using yellow sticky traps and state-recommended botanical/biocontrol agents. Safety notice: No chemical viricide cures viral infections. Focus strictly on sanitation, vector suppression, and rogueing.",
+    "sources": [
+      {
+        "institution": "ICAR - Indian Institute of Vegetable Research (IIVR)",
+        "publication": "Viral Diseases of Tomato and Their Integrated Management",
+        "url": "https://iivr.icar.gov.in"
+      }
+    ]
+  },
+  {
+    "crop": "Tomato",
+    "disease": "Healthy",
+    "intent": "disease_symptoms",
+    "text": "Symptoms of Tomato Healthy: Crisp green foliage, sturdy stems, active terminal growth, absence of necrotic spots, chlorotic mosaics, or wilting.",
+    "sources": [
+      {
+        "institution": "Punjab Agricultural University (PAU), Ludhiana",
+        "publication": "Tomato Cultivation Handbook",
+        "url": "https://www.pau.edu"
+      }
+    ]
+  },
+  {
+    "crop": "Tomato",
+    "disease": "Healthy",
+    "intent": "disease_causes",
+    "text": "Causes and favorable weather for Tomato Healthy (None (Healthy Crop)): Optimal sunshine, balanced fertilization (NPK + micronutrients like Boron and Calcium), regulated drip irrigation.. Regional status: Standard healthy vegetative or flowering state.",
+    "sources": [
+      {
+        "institution": "Punjab Agricultural University (PAU), Ludhiana",
+        "publication": "Tomato Cultivation Handbook",
+        "url": "https://www.pau.edu"
+      }
+    ]
+  },
+  {
+    "crop": "Tomato",
+    "disease": "Healthy",
+    "intent": "disease_prevention",
+    "text": "Prevention practices for Tomato Healthy: Maintain consistent irrigation to avoid calcium deficiency blossom-end rot. Inspect leaf undersides weekly for early sucking insect pests.",
+    "sources": [
+      {
+        "institution": "Punjab Agricultural University (PAU), Ludhiana",
+        "publication": "Tomato Cultivation Handbook",
+        "url": "https://www.pau.edu"
+      }
+    ]
+  },
+  {
+    "crop": "Tomato",
+    "disease": "Healthy",
+    "intent": "disease_management",
+    "text": "Management and control practices for Tomato Healthy: Continue standard agronomic practices and timely fertigation. Safety notice: Follow standard safe farm machinery and hand tool operations.",
+    "sources": [
+      {
+        "institution": "Punjab Agricultural University (PAU), Ludhiana",
+        "publication": "Tomato Cultivation Handbook",
+        "url": "https://www.pau.edu"
+      }
+    ]
+  },
+  {
+    "crop": "Wheat",
+    "disease": "Yellow Rust",
+    "intent": "disease_symptoms",
+    "text": "Symptoms of Wheat Yellow Rust: Bright yellow to lemon-yellow pustules (urediniospores) arranged in continuous linear stripes or chains along the leaf veins on the upper leaf surface. A yellow powdery mass easily rubs off onto fingers or white clothes. Severely infected leaves dry out, turn brown, and curl upwards.",
+    "sources": [
+      {
+        "institution": "Punjab Agricultural University (PAU), Ludhiana",
+        "publication": "Special Advisory on Yellow Rust Surveillance and Control in Wheat",
+        "url": "https://www.pau.edu"
+      },
+      {
+        "institution": "ICAR - Indian Institute of Wheat and Barley Research (IIWBR), Karnal",
+        "publication": "Wheat Crop Health Newsletter & Rust Resistance Directory",
+        "url": "https://iiwbr.icar.gov.in"
+      }
+    ]
+  },
+  {
+    "crop": "Wheat",
+    "disease": "Yellow Rust",
+    "intent": "disease_causes",
+    "text": "Causes and favorable weather for Wheat Yellow Rust (Puccinia striiformis f. sp. tritici (Fungus)): Cool temperatures (10\u00b0C to 15\u00b0C) with persistent cloud cover, rain showers, and heavy morning dew during January and February.. Regional status: Top priority quarantine-level foliar threat in Punjab (sub-mountainous districts: Hoshiarpur, Ropar, Gurdaspur) and Haryana (Ambala, Yamunanagar, Panchkula).",
+    "sources": [
+      {
+        "institution": "Punjab Agricultural University (PAU), Ludhiana",
+        "publication": "Special Advisory on Yellow Rust Surveillance and Control in Wheat",
+        "url": "https://www.pau.edu"
+      },
+      {
+        "institution": "ICAR - Indian Institute of Wheat and Barley Research (IIWBR), Karnal",
+        "publication": "Wheat Crop Health Newsletter & Rust Resistance Directory",
+        "url": "https://iiwbr.icar.gov.in"
+      }
+    ]
+  },
+  {
+    "crop": "Wheat",
+    "disease": "Yellow Rust",
+    "intent": "disease_prevention",
+    "text": "Prevention practices for Wheat Yellow Rust: Grow yellow rust-resistant wheat varieties approved by PAU/IIWBR (e.g., PBW 824, PBW 826, HD 3226, DBW 222, DBW 187). Avoid planting susceptible legacy cultivars (e.g., HD 2967, PBW 343) in vulnerable sub-mountainous belts. Scout lower leaves of crops weekly from late December onwards, particularly near tree shades and canal banks.",
+    "sources": [
+      {
+        "institution": "Punjab Agricultural University (PAU), Ludhiana",
+        "publication": "Special Advisory on Yellow Rust Surveillance and Control in Wheat",
+        "url": "https://www.pau.edu"
+      },
+      {
+        "institution": "ICAR - Indian Institute of Wheat and Barley Research (IIWBR), Karnal",
+        "publication": "Wheat Crop Health Newsletter & Rust Resistance Directory",
+        "url": "https://iiwbr.icar.gov.in"
+      }
+    ]
+  },
+  {
+    "crop": "Wheat",
+    "disease": "Yellow Rust",
+    "intent": "disease_management",
+    "text": "Management and control practices for Wheat Yellow Rust: Upon noticing initial yellow pustule stripes on isolated patches, spray Propiconazole 25 EC (0.1%) or Tebuconazole 25.9 EC immediately. Dissolve fungicide in 200 liters of water per acre using a flat-fan nozzle for uniform canopy coverage. Repeat spray after 15 days if cool, wet conditions persist and fresh yellow pustules reappear. Notify local PAU/HAU agricultural officer or KVK upon first detection. Safety notice: Wear protective clothing, goggles, and gloves. Do not spray during windy conditions to avoid drift onto non-target crops or livestock fodder.",
+    "sources": [
+      {
+        "institution": "Punjab Agricultural University (PAU), Ludhiana",
+        "publication": "Special Advisory on Yellow Rust Surveillance and Control in Wheat",
+        "url": "https://www.pau.edu"
+      },
+      {
+        "institution": "ICAR - Indian Institute of Wheat and Barley Research (IIWBR), Karnal",
+        "publication": "Wheat Crop Health Newsletter & Rust Resistance Directory",
+        "url": "https://iiwbr.icar.gov.in"
+      }
+    ]
+  },
+  {
+    "crop": "Wheat",
+    "disease": "Leaf Rust",
+    "intent": "disease_symptoms",
+    "text": "Symptoms of Wheat Leaf Rust: Round to oval, reddish-orange to bright orange-brown pustules scattered randomly across the upper leaf surface (not arranged in linear rows like yellow rust). As leaves mature, black telia appear as dark brown or black crusts.",
+    "sources": [
+      {
+        "institution": "ICAR - Indian Institute of Wheat and Barley Research (IIWBR), Karnal",
+        "publication": "Management of Brown / Leaf Rust in Wheat",
+        "url": "https://iiwbr.icar.gov.in"
+      },
+      {
+        "institution": "CCS Haryana Agricultural University (HAU), Hisar",
+        "publication": "Package of Practices for Rabi Crops: Wheat Protection",
+        "url": "https://www.hau.ac.in"
+      }
+    ]
+  },
+  {
+    "crop": "Wheat",
+    "disease": "Leaf Rust",
+    "intent": "disease_causes",
+    "text": "Causes and favorable weather for Wheat Leaf Rust (Puccinia triticina (Fungus)): Warmer temperatures (15\u00b0C to 25\u00b0C) with free moisture on leaves (heavy dew or spring rain).. Regional status: Widespread across all agro-climatic zones of Punjab and Haryana during warm spring days of late February and March.",
+    "sources": [
+      {
+        "institution": "ICAR - Indian Institute of Wheat and Barley Research (IIWBR), Karnal",
+        "publication": "Management of Brown / Leaf Rust in Wheat",
+        "url": "https://iiwbr.icar.gov.in"
+      },
+      {
+        "institution": "CCS Haryana Agricultural University (HAU), Hisar",
+        "publication": "Package of Practices for Rabi Crops: Wheat Protection",
+        "url": "https://www.hau.ac.in"
+      }
+    ]
+  },
+  {
+    "crop": "Wheat",
+    "disease": "Leaf Rust",
+    "intent": "disease_prevention",
+    "text": "Prevention practices for Wheat Leaf Rust: Sow timely in November to ensure grain filling completes before high temperature rust pressure rises in March. Sow certified rust-resistant varieties recommended by IIWBR Karnal (e.g., HD 3086, PBW 725, DBW 303). Ensure balanced potassic fertilizer application to enhance rust tolerance.",
+    "sources": [
+      {
+        "institution": "ICAR - Indian Institute of Wheat and Barley Research (IIWBR), Karnal",
+        "publication": "Management of Brown / Leaf Rust in Wheat",
+        "url": "https://iiwbr.icar.gov.in"
+      },
+      {
+        "institution": "CCS Haryana Agricultural University (HAU), Hisar",
+        "publication": "Package of Practices for Rabi Crops: Wheat Protection",
+        "url": "https://www.hau.ac.in"
+      }
+    ]
+  },
+  {
+    "crop": "Wheat",
+    "disease": "Leaf Rust",
+    "intent": "disease_management",
+    "text": "Management and control practices for Wheat Leaf Rust: Spray Propiconazole 25 EC or Tebuconazole 25.9 EC when pustules appear on flag leaves. Protect the flag leaf at all costs, as it contributes over 75% of grain filling nutrition. Safety notice: Observe chemical withholding periods before harvesting. Use dedicated crop sprayer tanks.",
+    "sources": [
+      {
+        "institution": "ICAR - Indian Institute of Wheat and Barley Research (IIWBR), Karnal",
+        "publication": "Management of Brown / Leaf Rust in Wheat",
+        "url": "https://iiwbr.icar.gov.in"
+      },
+      {
+        "institution": "CCS Haryana Agricultural University (HAU), Hisar",
+        "publication": "Package of Practices for Rabi Crops: Wheat Protection",
+        "url": "https://www.hau.ac.in"
+      }
+    ]
+  },
+  {
+    "crop": "Wheat",
+    "disease": "Stem Rust",
+    "intent": "disease_symptoms",
+    "text": "Symptoms of Wheat Stem Rust: Elongated, reddish-brown pustules (uredinia) that erupt through the epidermis on stems, leaf sheaths, leaves, and glumes, producing prominent jagged ragged epidermal fringes around each pustule. Pustules turn coal-black (telia) as crop matures.",
+    "sources": [
+      {
+        "institution": "ICAR - Indian Agricultural Research Institute (IARI), Regional Station, Shimla",
+        "publication": "Cereal Rust Epidemiology in Northern India",
+        "url": "https://www.iari.res.in"
+      }
+    ]
+  },
+  {
+    "crop": "Wheat",
+    "disease": "Stem Rust",
+    "intent": "disease_causes",
+    "text": "Causes and favorable weather for Wheat Stem Rust (Puccinia graminis f. sp. tritici (Fungus)): Warm temperatures (above 20\u00b0C to 30\u00b0C) with moist vegetation.. Regional status: Infrequent in northern plains due to winter cold, but periodically monitored in late-sown wheat.",
+    "sources": [
+      {
+        "institution": "ICAR - Indian Agricultural Research Institute (IARI), Regional Station, Shimla",
+        "publication": "Cereal Rust Epidemiology in Northern India",
+        "url": "https://www.iari.res.in"
+      }
+    ]
+  },
+  {
+    "crop": "Wheat",
+    "disease": "Stem Rust",
+    "intent": "disease_prevention",
+    "text": "Prevention practices for Wheat Stem Rust: Plant rust-resistant certified cultivars. Avoid delayed late December sowing.",
+    "sources": [
+      {
+        "institution": "ICAR - Indian Agricultural Research Institute (IARI), Regional Station, Shimla",
+        "publication": "Cereal Rust Epidemiology in Northern India",
+        "url": "https://www.iari.res.in"
+      }
+    ]
+  },
+  {
+    "crop": "Wheat",
+    "disease": "Stem Rust",
+    "intent": "disease_management",
+    "text": "Management and control practices for Wheat Stem Rust: Apply protective foliar triazole fungicides (Propiconazole 25 EC) if stem lesions are verified by agricultural extension. Safety notice: Follow standard chemical safety guidelines.",
+    "sources": [
+      {
+        "institution": "ICAR - Indian Agricultural Research Institute (IARI), Regional Station, Shimla",
+        "publication": "Cereal Rust Epidemiology in Northern India",
+        "url": "https://www.iari.res.in"
+      }
+    ]
+  },
+  {
+    "crop": "Wheat",
+    "disease": "Powdery Mildew",
+    "intent": "disease_symptoms",
+    "text": "Symptoms of Wheat Powdery Mildew: White to grayish powdery fluffy patches on leaf blades and sheaths. As infection ages, the powdery patches turn dull brownish-gray and develop minute black specks (cleistothecia). Underlying leaf tissue turns yellow and prematurely senesces.",
+    "sources": [
+      {
+        "institution": "Punjab Agricultural University (PAU), Ludhiana",
+        "publication": "Wheat Disease Diagnostics & Management Guide",
+        "url": "https://www.pau.edu"
+      }
+    ]
+  },
+  {
+    "crop": "Wheat",
+    "disease": "Powdery Mildew",
+    "intent": "disease_causes",
+    "text": "Causes and favorable weather for Wheat Powdery Mildew (Blumeria graminis f. sp. tritici (Fungus)): High humidity (85% to 100%), cool temperatures (15\u00b0C to 20\u00b0C), and dense over-fertilized crop canopies.. Regional status: Common in shaded field pockets, dense lodging canopies, and sub-mountainous zones of Punjab.",
+    "sources": [
+      {
+        "institution": "Punjab Agricultural University (PAU), Ludhiana",
+        "publication": "Wheat Disease Diagnostics & Management Guide",
+        "url": "https://www.pau.edu"
+      }
+    ]
+  },
+  {
+    "crop": "Wheat",
+    "disease": "Powdery Mildew",
+    "intent": "disease_prevention",
+    "text": "Prevention practices for Wheat Powdery Mildew: Avoid excessive nitrogen fertilization which produces lush, succulent, vulnerable foliage. Maintain recommended seed rates (40 kg/acre) to avoid overly dense tillering.",
+    "sources": [
+      {
+        "institution": "Punjab Agricultural University (PAU), Ludhiana",
+        "publication": "Wheat Disease Diagnostics & Management Guide",
+        "url": "https://www.pau.edu"
+      }
+    ]
+  },
+  {
+    "crop": "Wheat",
+    "disease": "Powdery Mildew",
+    "intent": "disease_management",
+    "text": "Management and control practices for Wheat Powdery Mildew: Spray Propiconazole 25 EC or Wettable Sulphur 80 WP at disease inception in dense canopies. Ensure spray reaches into the lower canopy layer. Safety notice: Do not spray sulphur during high afternoon temperatures (>30\u00b0C) to prevent foliar scorch.",
+    "sources": [
+      {
+        "institution": "Punjab Agricultural University (PAU), Ludhiana",
+        "publication": "Wheat Disease Diagnostics & Management Guide",
+        "url": "https://www.pau.edu"
+      }
+    ]
+  },
+  {
+    "crop": "Wheat",
+    "disease": "Healthy",
+    "intent": "disease_symptoms",
+    "text": "Symptoms of Wheat Healthy: Upright, uniform, dark-green canopy; absence of chlorotic stripes, yellow/orange pustules, or powdery efflorescence.",
+    "sources": [
+      {
+        "institution": "ICAR - Indian Institute of Wheat and Barley Research (IIWBR)",
+        "publication": "Package of Practices for Wheat in North-Western Plains Zone (NWPZ)",
+        "url": "https://iiwbr.icar.gov.in"
+      }
+    ]
+  },
+  {
+    "crop": "Wheat",
+    "disease": "Healthy",
+    "intent": "disease_causes",
+    "text": "Causes and favorable weather for Wheat Healthy (None (Healthy Crop)): Well-tilled loamy soil, adequate basal phosphorus (DAP/SSP), optimal crown root initiation (CRI) irrigation.. Regional status: Normal robust growth stage in timely sown wheat.",
+    "sources": [
+      {
+        "institution": "ICAR - Indian Institute of Wheat and Barley Research (IIWBR)",
+        "publication": "Package of Practices for Wheat in North-Western Plains Zone (NWPZ)",
+        "url": "https://iiwbr.icar.gov.in"
+      }
+    ]
+  },
+  {
+    "crop": "Wheat",
+    "disease": "Healthy",
+    "intent": "disease_prevention",
+    "text": "Prevention practices for Wheat Healthy: Apply first irrigation at Crown Root Initiation (CRI) stage (21 days after sowing). Apply zinc sulphate if soil test indicates deficiency to prevent chlorotic striping.",
+    "sources": [
+      {
+        "institution": "ICAR - Indian Institute of Wheat and Barley Research (IIWBR)",
+        "publication": "Package of Practices for Wheat in North-Western Plains Zone (NWPZ)",
+        "url": "https://iiwbr.icar.gov.in"
+      }
+    ]
+  },
+  {
+    "crop": "Wheat",
+    "disease": "Healthy",
+    "intent": "disease_management",
+    "text": "Management and control practices for Wheat Healthy: Follow PAU/HAU recommended schedule for timely weed management and split nitrogen top-dressing. Safety notice: Ensure clean water usage and safe handling of farm machinery.",
+    "sources": [
+      {
+        "institution": "ICAR - Indian Institute of Wheat and Barley Research (IIWBR)",
+        "publication": "Package of Practices for Wheat in North-Western Plains Zone (NWPZ)",
+        "url": "https://iiwbr.icar.gov.in"
+      }
+    ]
+  }
+]

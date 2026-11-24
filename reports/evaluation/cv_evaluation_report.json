@@ -1,0 +1,121 @@
+{
+  "timestamp": "2026-11-18",
+  "num_test_samples": 1942,
+  "overall_metrics": {
+    "accuracy": 0.9464,
+    "macro_f1": 0.9124,
+    "weighted_f1": 0.9473,
+    "macro_precision": 0.9066,
+    "macro_recall": 0.9213,
+    "expected_calibration_error_ece": 0.018
+  },
+  "latency_benchmark": {
+    "mean_latency_ms": 18.56,
+    "p95_latency_ms": 18.89,
+    "device": "cuda"
+  },
+  "per_crop_accuracy": {
+    "Potato": 0.9359,
+    "Tomato": 0.947,
+    "Rice": 0.8958,
+    "Wheat": 0.985
+  },
+  "per_class_metrics": {
+    "Non_Target___Background_or_Other_Leaf": {
+      "precision": 0.6956521739130435,
+      "recall": 0.9056603773584906,
+      "f1-score": 0.7868852459016393,
+      "support": 53.0
+    },
+    "Potato___Early_Blight": {
+      "precision": 0.9454545454545454,
+      "recall": 0.9230769230769231,
+      "f1-score": 0.9341317365269461,
+      "support": 169.0
+    },
+    "Potato___Healthy": {
+      "precision": 0.9583333333333334,
+      "recall": 1.0,
+      "f1-score": 0.9787234042553191,
+      "support": 23.0
+    },
+    "Potato___Late_Blight": {
+      "precision": 0.9751552795031055,
+      "recall": 0.9401197604790419,
+      "f1-score": 0.9573170731707317,
+      "support": 167.0
+    },
+    "Rice___Bacterial_Leaf_Blight": {
+      "precision": 0.875,
+      "recall": 1.0,
+      "f1-score": 0.9333333333333333,
+      "support": 21.0
+    },
+    "Rice___Brown_Spot": {
+      "precision": 0.9,
+      "recall": 0.8571428571428571,
+      "f1-score": 0.8780487804878049,
+      "support": 21.0
+    },
+    "Rice___Leaf_Smut": {
+      "precision": 0.6666666666666666,
+      "recall": 0.6666666666666666,
+      "f1-score": 0.6666666666666666,
+      "support": 6.0
+    },
+    "Tomato___Bacterial_Spot": {
+      "precision": 0.9738805970149254,
+      "recall": 0.9525547445255474,
+      "f1-score": 0.9630996309963099,
+      "support": 274.0
+    },
+    "Tomato___Early_Blight": {
+      "precision": 0.9197080291970803,
+      "recall": 0.9333333333333333,
+      "f1-score": 0.9264705882352942,
+      "support": 135.0
+    },
+    "Tomato___Healthy": {
+      "precision": 0.9847715736040609,
+      "recall": 0.9603960396039604,
+      "f1-score": 0.9724310776942355,
+      "support": 202.0
+    },
+    "Tomato___Late_Blight": {
+      "precision": 0.952191235059761,
+      "recall": 0.9637096774193549,
+      "f1-score": 0.9579158316633266,
+      "support": 248.0
+    },
+    "Tomato___Leaf_Mold": {
+      "precision": 0.9242424242424242,
+      "recall": 0.9384615384615385,
+      "f1-score": 0.9312977099236641,
+      "support": 130.0
+    },
+    "Tomato___Mosaic_Virus": {
+      "precision": 0.819672131147541,
+      "recall": 0.9090909090909091,
+      "f1-score": 0.8620689655172413,
+      "support": 55.0
+    },
+    "Tomato___Septoria_Leaf_Spot": {
+      "precision": 0.9779735682819384,
+      "recall": 0.9327731092436975,
+      "f1-score": 0.9548387096774194,
+      "support": 238.0
+    },
+    "Wheat___Healthy": {
+      "precision": 0.988950276243094,
+      "recall": 1.0,
+      "f1-score": 0.9944444444444445,
+      "support": 179.0
+    },
+    "Wheat___Leaf_Rust": {
+      "precision": 0.9473684210526315,
+      "recall": 0.8571428571428571,
+      "f1-score": 0.9,
+      "support": 21.0
+    }
+  }
+}

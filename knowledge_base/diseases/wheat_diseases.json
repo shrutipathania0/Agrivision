@@ -1,0 +1,134 @@
+[
+  {
+    "crop": "Wheat",
+    "disease": "Yellow Rust",
+    "pathogen": "Puccinia striiformis f. sp. tritici (Fungus)",
+    "regional_status": "Top priority quarantine-level foliar threat in Punjab (sub-mountainous districts: Hoshiarpur, Ropar, Gurdaspur) and Haryana (Ambala, Yamunanagar, Panchkula).",
+    "symptoms": "Bright yellow to lemon-yellow pustules (urediniospores) arranged in continuous linear stripes or chains along the leaf veins on the upper leaf surface. A yellow powdery mass easily rubs off onto fingers or white clothes. Severely infected leaves dry out, turn brown, and curl upwards.",
+    "favorable_conditions": "Cool temperatures (10°C to 15°C) with persistent cloud cover, rain showers, and heavy morning dew during January and February.",
+    "prevention_practices": [
+      "Grow yellow rust-resistant wheat varieties approved by PAU/IIWBR (e.g., PBW 824, PBW 826, HD 3226, DBW 222, DBW 187).",
+      "Avoid planting susceptible legacy cultivars (e.g., HD 2967, PBW 343) in vulnerable sub-mountainous belts.",
+      "Scout lower leaves of crops weekly from late December onwards, particularly near tree shades and canal banks."
+    ],
+    "management_practices": [
+      "Upon noticing initial yellow pustule stripes on isolated patches, spray Propiconazole 25 EC (0.1%) or Tebuconazole 25.9 EC immediately.",
+      "Dissolve fungicide in 200 liters of water per acre using a flat-fan nozzle for uniform canopy coverage.",
+      "Repeat spray after 15 days if cool, wet conditions persist and fresh yellow pustules reappear.",
+      "Notify local PAU/HAU agricultural officer or KVK upon first detection."
+    ],
+    "safety_warning": "Wear protective clothing, goggles, and gloves. Do not spray during windy conditions to avoid drift onto non-target crops or livestock fodder.",
+    "sources": [
+      {
+        "institution": "Punjab Agricultural University (PAU), Ludhiana",
+        "publication": "Special Advisory on Yellow Rust Surveillance and Control in Wheat",
+        "url": "https://www.pau.edu"
+      },
+      {
+        "institution": "ICAR - Indian Institute of Wheat and Barley Research (IIWBR), Karnal",
+        "publication": "Wheat Crop Health Newsletter & Rust Resistance Directory",
+        "url": "https://iiwbr.icar.gov.in"
+      }
+    ]
+  },
+  {
+    "crop": "Wheat",
+    "disease": "Leaf Rust",
+    "pathogen": "Puccinia triticina (Fungus)",
+    "regional_status": "Widespread across all agro-climatic zones of Punjab and Haryana during warm spring days of late February and March.",
+    "symptoms": "Round to oval, reddish-orange to bright orange-brown pustules scattered randomly across the upper leaf surface (not arranged in linear rows like yellow rust). As leaves mature, black telia appear as dark brown or black crusts.",
+    "favorable_conditions": "Warmer temperatures (15°C to 25°C) with free moisture on leaves (heavy dew or spring rain).",
+    "prevention_practices": [
+      "Sow timely in November to ensure grain filling completes before high temperature rust pressure rises in March.",
+      "Sow certified rust-resistant varieties recommended by IIWBR Karnal (e.g., HD 3086, PBW 725, DBW 303).",
+      "Ensure balanced potassic fertilizer application to enhance rust tolerance."
+    ],
+    "management_practices": [
+      "Spray Propiconazole 25 EC or Tebuconazole 25.9 EC when pustules appear on flag leaves.",
+      "Protect the flag leaf at all costs, as it contributes over 75% of grain filling nutrition."
+    ],
+    "safety_warning": "Observe chemical withholding periods before harvesting. Use dedicated crop sprayer tanks.",
+    "sources": [
+      {
+        "institution": "ICAR - Indian Institute of Wheat and Barley Research (IIWBR), Karnal",
+        "publication": "Management of Brown / Leaf Rust in Wheat",
+        "url": "https://iiwbr.icar.gov.in"
+      },
+      {
+        "institution": "CCS Haryana Agricultural University (HAU), Hisar",
+        "publication": "Package of Practices for Rabi Crops: Wheat Protection",
+        "url": "https://www.hau.ac.in"
+      }
+    ]
+  },
+  {
+    "crop": "Wheat",
+    "disease": "Stem Rust",
+    "pathogen": "Puccinia graminis f. sp. tritici (Fungus)",
+    "regional_status": "Infrequent in northern plains due to winter cold, but periodically monitored in late-sown wheat.",
+    "symptoms": "Elongated, reddish-brown pustules (uredinia) that erupt through the epidermis on stems, leaf sheaths, leaves, and glumes, producing prominent jagged ragged epidermal fringes around each pustule. Pustules turn coal-black (telia) as crop matures.",
+    "favorable_conditions": "Warm temperatures (above 20°C to 30°C) with moist vegetation.",
+    "prevention_practices": [
+      "Plant rust-resistant certified cultivars.",
+      "Avoid delayed late December sowing."
+    ],
+    "management_practices": [
+      "Apply protective foliar triazole fungicides (Propiconazole 25 EC) if stem lesions are verified by agricultural extension."
+    ],
+    "safety_warning": "Follow standard chemical safety guidelines.",
+    "sources": [
+      {
+        "institution": "ICAR - Indian Agricultural Research Institute (IARI), Regional Station, Shimla",
+        "publication": "Cereal Rust Epidemiology in Northern India",
+        "url": "https://www.iari.res.in"
+      }
+    ]
+  },
+  {
+    "crop": "Wheat",
+    "disease": "Powdery Mildew",
+    "pathogen": "Blumeria graminis f. sp. tritici (Fungus)",
+    "regional_status": "Common in shaded field pockets, dense lodging canopies, and sub-mountainous zones of Punjab.",
+    "symptoms": "White to grayish powdery fluffy patches on leaf blades and sheaths. As infection ages, the powdery patches turn dull brownish-gray and develop minute black specks (cleistothecia). Underlying leaf tissue turns yellow and prematurely senesces.",
+    "favorable_conditions": "High humidity (85% to 100%), cool temperatures (15°C to 20°C), and dense over-fertilized crop canopies.",
+    "prevention_practices": [
+      "Avoid excessive nitrogen fertilization which produces lush, succulent, vulnerable foliage.",
+      "Maintain recommended seed rates (40 kg/acre) to avoid overly dense tillering."
+    ],
+    "management_practices": [
+      "Spray Propiconazole 25 EC or Wettable Sulphur 80 WP at disease inception in dense canopies.",
+      "Ensure spray reaches into the lower canopy layer."
+    ],
+    "safety_warning": "Do not spray sulphur during high afternoon temperatures (>30°C) to prevent foliar scorch.",
+    "sources": [
+      {
+        "institution": "Punjab Agricultural University (PAU), Ludhiana",
+        "publication": "Wheat Disease Diagnostics & Management Guide",
+        "url": "https://www.pau.edu"
+      }
+    ]
+  },
+  {
+    "crop": "Wheat",
+    "disease": "Healthy",
+    "pathogen": "None (Healthy Crop)",
+    "regional_status": "Normal robust growth stage in timely sown wheat.",
+    "symptoms": "Upright, uniform, dark-green canopy; absence of chlorotic stripes, yellow/orange pustules, or powdery efflorescence.",
+    "favorable_conditions": "Well-tilled loamy soil, adequate basal phosphorus (DAP/SSP), optimal crown root initiation (CRI) irrigation.",
+    "prevention_practices": [
+      "Apply first irrigation at Crown Root Initiation (CRI) stage (21 days after sowing).",
+      "Apply zinc sulphate if soil test indicates deficiency to prevent chlorotic striping."
+    ],
+    "management_practices": [
+      "Follow PAU/HAU recommended schedule for timely weed management and split nitrogen top-dressing."
+    ],
+    "safety_warning": "Ensure clean water usage and safe handling of farm machinery.",
+    "sources": [
+      {
+        "institution": "ICAR - Indian Institute of Wheat and Barley Research (IIWBR)",
+        "publication": "Package of Practices for Wheat in North-Western Plains Zone (NWPZ)",
+        "url": "https://iiwbr.icar.gov.in"
+      }
+    ]
+  }
+]

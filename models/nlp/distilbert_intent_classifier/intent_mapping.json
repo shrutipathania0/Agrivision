@@ -1,0 +1,27 @@
+{
+  "intents": [
+    "disease_symptoms",
+    "disease_causes",
+    "disease_prevention",
+    "disease_management",
+    "fertilizer_nutrient_info",
+    "general_farming_inquiry"
+  ],
+  "intent_to_idx": {
+    "disease_symptoms": 0,
+    "disease_causes": 1,
+    "disease_prevention": 2,
+    "disease_management": 3,
+    "fertilizer_nutrient_info": 4,
+    "general_farming_inquiry": 5
+  },
+  "idx_to_intent": {
+    "0": "disease_symptoms",
+    "1": "disease_causes",
+    "2": "disease_prevention",
+    "3": "disease_management",
+    "4": "fertilizer_nutrient_info",
+    "5": "general_farming_inquiry"
+  },
+  "best_val_macro_f1": 0.5925925925925926
+}

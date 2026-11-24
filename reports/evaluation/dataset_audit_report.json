@@ -1,0 +1,126 @@
+{
+  "timestamp": "2026-11-18",
+  "num_classes": 16,
+  "classes": {
+    "Non_Target___Background_or_Other_Leaf": {
+      "train": 244,
+      "val": 53,
+      "test": 53,
+      "total": 350
+    },
+    "Potato___Early_Blight": {
+      "train": 786,
+      "val": 169,
+      "test": 169,
+      "total": 1124
+    },
+    "Potato___Healthy": {
+      "train": 106,
+      "val": 23,
+      "test": 23,
+      "total": 152
+    },
+    "Potato___Late_Blight": {
+      "train": 779,
+      "val": 167,
+      "test": 167,
+      "total": 1113
+    },
+    "Rice___Bacterial_Leaf_Blight": {
+      "train": 95,
+      "val": 20,
+      "test": 21,
+      "total": 136
+    },
+    "Rice___Brown_Spot": {
+      "train": 95,
+      "val": 20,
+      "test": 21,
+      "total": 136
+    },
+    "Rice___Leaf_Smut": {
+      "train": 28,
+      "val": 6,
+      "test": 6,
+      "total": 40
+    },
+    "Tomato___Bacterial_Spot": {
+      "train": 1274,
+      "val": 273,
+      "test": 274,
+      "total": 1821
+    },
+    "Tomato___Early_Blight": {
+      "train": 627,
+      "val": 135,
+      "test": 135,
+      "total": 897
+    },
+    "Tomato___Healthy": {
+      "train": 936,
+      "val": 201,
+      "test": 202,
+      "total": 1339
+    },
+    "Tomato___Late_Blight": {
+      "train": 1149,
+      "val": 246,
+      "test": 248,
+      "total": 1643
+    },
+    "Tomato___Leaf_Mold": {
+      "train": 599,
+      "val": 129,
+      "test": 130,
+      "total": 858
+    },
+    "Tomato___Mosaic_Virus": {
+      "train": 253,
+      "val": 55,
+      "test": 55,
+      "total": 363
+    },
+    "Tomato___Septoria_Leaf_Spot": {
+      "train": 1104,
+      "val": 237,
+      "test": 238,
+      "total": 1579
+    },
+    "Wheat___Healthy": {
+      "train": 832,
+      "val": 178,
+      "test": 179,
+      "total": 1189
+    },
+    "Wheat___Leaf_Rust": {
+      "train": 94,
+      "val": 20,
+      "test": 21,
+      "total": 135
+    }
+  },
+  "class_weights": {
+    "Non_Target___Background_or_Other_Leaf": 1.5184,
+    "Potato___Early_Blight": 0.846,
+    "Potato___Healthy": 2.3037,
+    "Potato___Late_Blight": 0.8498,
+    "Rice___Bacterial_Leaf_Blight": 2.4335,
+    "Rice___Brown_Spot": 2.4335,
+    "Rice___Leaf_Smut": 2.5,
+    "Tomato___Bacterial_Spot": 0.6645,
+    "Tomato___Early_Blight": 0.9472,
+    "Tomato___Healthy": 0.7753,
+    "Tomato___Late_Blight": 0.6997,
+    "Tomato___Leaf_Mold": 0.9691,
+    "Tomato___Mosaic_Virus": 1.4912,
+    "Tomato___Septoria_Leaf_Spot": 0.7138,
+    "Wheat___Healthy": 0.8223,
+    "Wheat___Leaf_Rust": 2.4464
+  },
+  "splits": {
+    "train": 9001,
+    "val": 1932,
+    "test": 1942,
+    "total": 12875
+  }
+}

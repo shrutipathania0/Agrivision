@@ -1,0 +1,93 @@
+[
+  {
+    "crop": "Potato",
+    "disease": "Early Blight",
+    "pathogen": "Alternaria solani (Fungus)",
+    "regional_status": "Prevalent across Punjab and Haryana plains during warm, humid spells of October-December.",
+    "symptoms": "Initial symptoms appear on older lower leaves as small, dark brown to black circular or angular spots with characteristic concentric rings creating a 'target board' effect. Lesions may enlarge, coalesce, and cause premature defoliation.",
+    "favorable_conditions": "Alternating dry and warm periods with high relative humidity (above 80%) and temperatures between 24°C to 29°C.",
+    "prevention_practices": [
+      "Use certified disease-free seed tubers from verified Punjab/Haryana seed growers.",
+      "Practice crop rotation with non-solanaceous crops for at least 2-3 years.",
+      "Ensure balanced fertilization; avoid excessive nitrogen which delays leaf maturity.",
+      "Maintain adequate spacing to promote airflow within the canopy and reduce leaf wetness."
+    ],
+    "management_practices": [
+      "Destroy and burn infected crop debris and volunteer plants post-harvest.",
+      "Apply protective contact fungicides such as Mancozeb 75 WP or Chlorothalonil 75 WP at first sign of lower leaf spotting.",
+      "In severe outbreaks under humid conditions, consult PAU/HAU spray schedule for systemic fungicides (e.g., Azoxystrobin + Difenoconazole).",
+      "Follow safe waiting periods (PHI) before tuber harvesting."
+    ],
+    "safety_warning": "Always wear protective gloves and face masks when handling fungicides. Spray during calm morning or evening hours. Adhere strictly to the CIB&RC approved label instructions.",
+    "sources": [
+      {
+        "institution": "Punjab Agricultural University (PAU), Ludhiana",
+        "publication": "Package of Practices for Vegetable Crops (Rabi) - Potato Diseases",
+        "url": "https://www.pau.edu"
+      },
+      {
+        "institution": "ICAR - Central Potato Research Institute (CPRI), Shimla",
+        "publication": "Potato Pest and Disease Management Advisory Bulletin",
+        "url": "https://cpri.icar.gov.in"
+      }
+    ]
+  },
+  {
+    "crop": "Potato",
+    "disease": "Late Blight",
+    "pathogen": "Phytophthora infestans (Oomycete)",
+    "regional_status": "Major destructive disease in Punjab and Haryana during foggy, overcast winter months (December-January).",
+    "symptoms": "Water-soaked, irregular pale to dark green lesions near leaf margins and tips. Under cool, humid conditions, lesions expand rapidly into large brown-black dead areas with delicate white cottony fungal growth on the underside of leaves. Infected tubers show irregular purplish-brown dry rot.",
+    "favorable_conditions": "Temperatures between 10°C to 20°C with persistent high relative humidity (>90%) and morning fogs or dew.",
+    "prevention_practices": [
+      "Select resistant or tolerant varieties recommended by PAU/CPRI (e.g., Kufri Pukhraj, Kufri Jyoti).",
+      "Treat seed tubers with approved protective fungicide before planting.",
+      "Avoid excess furrow irrigation that maintains standing water or excessive humidity in fields.",
+      "Regularly scout fields when PAU/HAU issues late blight weather warnings."
+    ],
+    "management_practices": [
+      "Apply preventive protective spray of Mancozeb 75 WP as soon as weather conditions become favorable for blight.",
+      "If disease appears, switch to systemic fungicides such as Cymoxanil + Mancozeb or Metalaxyl-M + Mancozeb as recommended by local KVK.",
+      "Halt irrigation immediately upon noticing blight spread.",
+      "De-haulm (cut and destroy haulms) 10-15 days before harvest to prevent tuber infection from dying leaves."
+    ],
+    "safety_warning": "Wear protective gear during chemical spraying. Ensure proper disposal of chemical containers. Do not feed infected foliage to livestock.",
+    "sources": [
+      {
+        "institution": "Punjab Agricultural University (PAU), Ludhiana",
+        "publication": "PAU Late Blight Forecast and Management Guidelines",
+        "url": "https://www.pau.edu"
+      },
+      {
+        "institution": "CCS Haryana Agricultural University (HAU), Hisar",
+        "publication": "Package of Practices for Rabi Crops: Potato Care",
+        "url": "https://www.hau.ac.in"
+      }
+    ]
+  },
+  {
+    "crop": "Potato",
+    "disease": "Healthy",
+    "pathogen": "None (Healthy Crop)",
+    "regional_status": "Normal healthy growth stage.",
+    "symptoms": "Vibrant green leaves, uniform canopy, absence of necrotic lesions, concentric rings, chlorosis, or wilting.",
+    "favorable_conditions": "Well-drained sandy loam soil, optimal soil moisture, balanced NPK application.",
+    "prevention_practices": [
+      "Maintain timely earthing-up to prevent tuber greening.",
+      "Monitor for early aphid populations (Myzus persicae) to prevent viral spread.",
+      "Follow balanced potassium application for strong cell walls and disease resilience."
+    ],
+    "management_practices": [
+      "Continue standard irrigation scheduling avoiding waterlogging.",
+      "Routinely inspect under-canopy foliage for any early micro-symptoms."
+    ],
+    "safety_warning": "Routine field operations require standard farm safety precautions.",
+    "sources": [
+      {
+        "institution": "ICAR - Central Potato Research Institute (CPRI)",
+        "publication": "Good Agricultural Practices (GAP) for Potato Cultivation",
+        "url": "https://cpri.icar.gov.in"
+      }
+    ]
+  }
+]

@@ -1,0 +1,35 @@
+# AgriVision Dependencies
+# PyTorch is installed via: pip install torch torchvision --index-url https://download.pytorch.org/whl/cu124
+
+# Computer Vision & Image Processing
+pillow>=10.2.0
+opencv-python-headless>=4.9.0.80
+imagehash>=4.3.1
+
+# Machine Learning & Evaluation
+scikit-learn>=1.4.0
+numpy>=1.26.0,<2.1.0
+pandas>=2.2.0
+matplotlib>=3.8.0
+seaborn>=0.13.0
+
+# NLP & Embeddings
+transformers>=4.40.0
+sentence-transformers>=2.7.0
+faiss-cpu>=1.8.0
+accelerate>=0.29.0
+
+# Backend & API
+fastapi>=0.110.0
+uvicorn[standard]>=0.29.0
+python-multipart>=0.0.9
+pydantic>=2.7.0
+pydantic-settings>=2.2.0
+reportlab>=4.1.0
+
+# Utilities
+tqdm>=4.66.0
+pyyaml>=6.0.1
+requests>=2.31.0
+pytest>=8.1.0
+httpx>=0.27.0

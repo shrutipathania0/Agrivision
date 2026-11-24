@@ -1,0 +1,53 @@
+{
+  "institutions": [
+    {
+      "code": "PAU",
+      "name": "Punjab Agricultural University",
+      "location": "Ludhiana, Punjab, India",
+      "website": "https://www.pau.edu",
+      "description": "Premier agricultural state university pioneering the Green Revolution, producing regional packages of practices for Punjab agro-climatic zones.",
+      "specialization": ["Wheat", "Rice (Basmati & Non-Basmati)", "Potato", "Vegetables"]
+    },
+    {
+      "code": "CCS HAU",
+      "name": "Chaudhary Charan Singh Haryana Agricultural University",
+      "location": "Hisar, Haryana, India",
+      "website": "https://www.hau.ac.in",
+      "description": "Leading northern agricultural university specializing in arid, semi-arid, and canal-irrigated cropping systems in Haryana.",
+      "specialization": ["Wheat", "Mustard", "Paddy", "Vegetable Crops"]
+    },
+    {
+      "code": "ICAR-IIWBR",
+      "name": "ICAR - Indian Institute of Wheat and Barley Research",
+      "location": "Karnal, Haryana, India",
+      "website": "https://iiwbr.icar.gov.in",
+      "description": "National apex research institute coordinating All India Coordinated Research Project on Wheat & Barley (AICRPW&B).",
+      "specialization": ["Wheat Rust Resistance", "Yellow Rust Pathotyping", "High-Yielding Wheat Cultivars"]
+    },
+    {
+      "code": "ICAR-CPRI",
+      "name": "ICAR - Central Potato Research Institute",
+      "location": "Shimla, Himachal Pradesh & Jalandhar Station, Punjab",
+      "website": "https://cpri.icar.gov.in",
+      "description": "National apex potato research body specializing in seed potato technology, late blight epidemiology, and Kufri cultivars.",
+      "specialization": ["Potato Late Blight", "Early Blight", "Tuber Health"]
+    },
+    {
+      "code": "ICAR-NRRI",
+      "name": "ICAR - National Rice Research Institute",
+      "location": "Cuttack, Odisha, India",
+      "website": "https://icar-nrri.gov.in",
+      "description": "National research authority on rice pathology, bacterial blight management, and blast genetics.",
+      "specialization": ["Rice Blast", "Bacterial Leaf Blight", "Brown Spot"]
+    },
+    {
+      "code": "KVK",
+      "name": "Krishi Vigyan Kendra Network (Punjab & Haryana)",
+      "location": "District-level Agricultural Science Centers across Punjab and Haryana",
+      "website": "https://kvk.icar.gov.in",
+      "description": "Frontline agricultural extension network linking laboratory research to individual farm holdings with on-field diagnostic demonstrations.",
+      "specialization": ["Localized Farmer Advisories", "Field Scouting", "Safe Chemical Stewardship"]
+    }
+  ],
+  "disclaimer": "AgriVision is an AI-assisted diagnostic screening tool designed to aid farmers and students. All chemical, botanical, or cultural advisories are grounded in institutional publications. Users must strictly follow CIB&RC approved labels and verify symptoms with local KVK extension officers before applying any restricted chemical treatments."
+}
